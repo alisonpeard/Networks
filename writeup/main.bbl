@@ -1,0 +1,548 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{flightdata}{misc}{}
+      \list{publisher}{2}{%
+        {U.S. Department of Transportation, Research}%
+        {Innovative Technology Administration, Bureau of Transportation Statistics}%
+      }
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labeltitlesource}{title}
+      \field{title}{Air Carrier Statistics Database: T-100 Domestic Segment (U.S. Carriers)}
+      \field{year}{2011}
+    \endentry
+    \entry{boydnotes}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=ec94d94cc487dd71939a90cbeaaf47d0}{%
+           family={Boyd},
+           familyi={B\bibinitperiod},
+           given={Stephen},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Standford University}%
+      }
+      \strng{namehash}{ec94d94cc487dd71939a90cbeaaf47d0}
+      \strng{fullhash}{ec94d94cc487dd71939a90cbeaaf47d0}
+      \strng{bibnamehash}{ec94d94cc487dd71939a90cbeaaf47d0}
+      \strng{authorbibnamehash}{ec94d94cc487dd71939a90cbeaaf47d0}
+      \strng{authornamehash}{ec94d94cc487dd71939a90cbeaaf47d0}
+      \strng{authorfullhash}{ec94d94cc487dd71939a90cbeaaf47d0}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{9}
+      \field{title}{Lecture notes EE363: Linear Dynamical Systems, Lecture 17: Perron-Frobenius Theory}
+      \field{year}{2008}
+    \endentry
+    \entry{guimera2005worldwide}{article}{}
+      \name{author}{4}{}{%
+        {{hash=d461fbb3855729ec0734c7d8faa8db7c}{%
+           family={Guimera},
+           familyi={G\bibinitperiod},
+           given={Roger},
+           giveni={R\bibinitperiod}}}%
+        {{hash=a80c2149f4f7ceacc084e25d08c9c681}{%
+           family={Mossa},
+           familyi={M\bibinitperiod},
+           given={Stefano},
+           giveni={S\bibinitperiod}}}%
+        {{hash=dcc7a6e1ff56f1807ed61187c54333ec}{%
+           family={Turtschi},
+           familyi={T\bibinitperiod},
+           given={Adrian},
+           giveni={A\bibinitperiod}}}%
+        {{hash=cc88d464fc959e3e1537efee8b0afb40}{%
+           family={Amaral},
+           familyi={A\bibinitperiod},
+           given={LA\bibnamedelima Nunes},
+           giveni={L\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {National Acad Sciences}%
+      }
+      \strng{namehash}{9d5eb703a58e9a11955b139777556bc9}
+      \strng{fullhash}{f2cb924a726a95060464db8e024a2811}
+      \strng{bibnamehash}{9d5eb703a58e9a11955b139777556bc9}
+      \strng{authorbibnamehash}{9d5eb703a58e9a11955b139777556bc9}
+      \strng{authornamehash}{9d5eb703a58e9a11955b139777556bc9}
+      \strng{authorfullhash}{f2cb924a726a95060464db8e024a2811}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of the National Academy of Sciences}
+      \field{number}{22}
+      \field{title}{The worldwide air transportation network: Anomalous centrality, community structure, and cities' global roles}
+      \field{volume}{102}
+      \field{year}{2005}
+      \field{pages}{7794\bibrangedash 7799}
+      \range{pages}{6}
+    \endentry
+    \entry{kojaku2019multiscale}{article}{}
+      \name{author}{4}{}{%
+        {{hash=16a5aa5fef674609d1cdcf08ca869dd6}{%
+           family={Kojaku},
+           familyi={K\bibinitperiod},
+           given={Sadamori},
+           giveni={S\bibinitperiod}}}%
+        {{hash=2c8a6d844d53e020cca3bf6a1fa16a2d}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Mengqiao},
+           giveni={M\bibinitperiod}}}%
+        {{hash=02f890f933df1d70b34fc0988f17055d}{%
+           family={Xia},
+           familyi={X\bibinitperiod},
+           given={Haoxiang},
+           giveni={H\bibinitperiod}}}%
+        {{hash=7df048eb2aad541fce900a6741f5d272}{%
+           family={Masuda},
+           familyi={M\bibinitperiod},
+           given={Naoki},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{539d5cdcaf22ebb82cd2642e6574697c}
+      \strng{fullhash}{00d909d80ac38e4aed82340de9bc435b}
+      \strng{bibnamehash}{539d5cdcaf22ebb82cd2642e6574697c}
+      \strng{authorbibnamehash}{539d5cdcaf22ebb82cd2642e6574697c}
+      \strng{authornamehash}{539d5cdcaf22ebb82cd2642e6574697c}
+      \strng{authorfullhash}{00d909d80ac38e4aed82340de9bc435b}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Scientific reports}
+      \field{number}{1}
+      \field{title}{Multiscale core-periphery structure in a global liner shipping network}
+      \field{volume}{9}
+      \field{year}{2019}
+      \field{pages}{1\bibrangedash 15}
+      \range{pages}{15}
+    \endentry
+    \entry{lambiottenotes}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=a0bc3d83c54bda6a078936b2d87d6c9f}{%
+           family={Lambiotte},
+           familyi={L\bibinitperiod},
+           given={Renaud},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {University of Oxford}%
+      }
+      \strng{namehash}{a0bc3d83c54bda6a078936b2d87d6c9f}
+      \strng{fullhash}{a0bc3d83c54bda6a078936b2d87d6c9f}
+      \strng{bibnamehash}{a0bc3d83c54bda6a078936b2d87d6c9f}
+      \strng{authorbibnamehash}{a0bc3d83c54bda6a078936b2d87d6c9f}
+      \strng{authornamehash}{a0bc3d83c54bda6a078936b2d87d6c9f}
+      \strng{authorfullhash}{a0bc3d83c54bda6a078936b2d87d6c9f}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{C5.4 Networks Lecture Notes}
+      \field{year}{2021}
+    \endentry
+    \entry{lambiotte2012ranking}{article}{}
+      \name{author}{2}{}{%
+        {{hash=a0bc3d83c54bda6a078936b2d87d6c9f}{%
+           family={Lambiotte},
+           familyi={L\bibinitperiod},
+           given={Renaud},
+           giveni={R\bibinitperiod}}}%
+        {{hash=c4dd2419dfbbe40a99ed3f90f7a90f27}{%
+           family={Rosvall},
+           familyi={R\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {APS}%
+      }
+      \strng{namehash}{359811e877def5123eebdead6394b93b}
+      \strng{fullhash}{359811e877def5123eebdead6394b93b}
+      \strng{bibnamehash}{359811e877def5123eebdead6394b93b}
+      \strng{authorbibnamehash}{359811e877def5123eebdead6394b93b}
+      \strng{authornamehash}{359811e877def5123eebdead6394b93b}
+      \strng{authorfullhash}{359811e877def5123eebdead6394b93b}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Physical Review E}
+      \field{number}{5}
+      \field{title}{Ranking and clustering of nodes in networks with smart teleportation}
+      \field{volume}{85}
+      \field{year}{2012}
+      \field{pages}{056107}
+      \range{pages}{1}
+    \endentry
+    \entry{lambiotte2019networks}{article}{}
+      \name{author}{3}{}{%
+        {{hash=a0bc3d83c54bda6a078936b2d87d6c9f}{%
+           family={Lambiotte},
+           familyi={L\bibinitperiod},
+           given={Renaud},
+           giveni={R\bibinitperiod}}}%
+        {{hash=c4dd2419dfbbe40a99ed3f90f7a90f27}{%
+           family={Rosvall},
+           familyi={R\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod}}}%
+        {{hash=1ee796df8a85f96871de0f87504e1cd9}{%
+           family={Scholtes},
+           familyi={S\bibinitperiod},
+           given={Ingo},
+           giveni={I\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{ae8aa8096cfdb7c2059ce7813f6041eb}
+      \strng{fullhash}{ae8aa8096cfdb7c2059ce7813f6041eb}
+      \strng{bibnamehash}{ae8aa8096cfdb7c2059ce7813f6041eb}
+      \strng{authorbibnamehash}{ae8aa8096cfdb7c2059ce7813f6041eb}
+      \strng{authornamehash}{ae8aa8096cfdb7c2059ce7813f6041eb}
+      \strng{authorfullhash}{ae8aa8096cfdb7c2059ce7813f6041eb}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature physics}
+      \field{number}{4}
+      \field{title}{From networks to optimal higher-order models of complex systems}
+      \field{volume}{15}
+      \field{year}{2019}
+      \field{pages}{313\bibrangedash 320}
+      \range{pages}{8}
+    \endentry
+    \entry{Luxburg07atutorial}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=25a0ba72a1202d0c366bca062ff2b3c1}{%
+           family={Luxburg},
+           familyi={L\bibinitperiod},
+           given={Ulrike\bibnamedelima Von},
+           giveni={U\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+      }
+      \strng{namehash}{25a0ba72a1202d0c366bca062ff2b3c1}
+      \strng{fullhash}{25a0ba72a1202d0c366bca062ff2b3c1}
+      \strng{bibnamehash}{25a0ba72a1202d0c366bca062ff2b3c1}
+      \strng{authorbibnamehash}{25a0ba72a1202d0c366bca062ff2b3c1}
+      \strng{authornamehash}{25a0ba72a1202d0c366bca062ff2b3c1}
+      \strng{authorfullhash}{25a0ba72a1202d0c366bca062ff2b3c1}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A Tutorial on Spectral Clustering}
+      \field{year}{2007}
+    \endentry
+    \entry{scikit-learn}{article}{}
+      \name{author}{16}{}{%
+        {{hash=6e96fec0d63277626bb324bd28cdecb7}{%
+           family={Pedregosa},
+           familyi={P\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=b99c2df2144dc5ee09317a7833dea42d}{%
+           family={Varoquaux},
+           familyi={V\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+        {{hash=955f19cea89ae97bb7936078898e6255}{%
+           family={Gramfort},
+           familyi={G\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=2787869c9954c1d4e9891098995feb75}{%
+           family={Michel},
+           familyi={M\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod}}}%
+        {{hash=86d47ab9ca1a9dae108b4d4a0418c679}{%
+           family={Thirion},
+           familyi={T\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+        {{hash=d42f9e9cec95da1dad2232eac74982ab}{%
+           family={Grisel},
+           familyi={G\bibinitperiod},
+           given={O.},
+           giveni={O\bibinitperiod}}}%
+        {{hash=8bd8ef25258dd2311f92df23fe71ecf7}{%
+           family={Blondel},
+           familyi={B\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=a5ee41fa92b9e425806e1773853f1932}{%
+           family={Prettenhofer},
+           familyi={P\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=0c808557734e8929976d1f06f99c4ff2}{%
+           family={Weiss},
+           familyi={W\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=9662a6ea01596c6dd450817ccac81c4a}{%
+           family={Dubourg},
+           familyi={D\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod}}}%
+        {{hash=39e81a3e2193b954680a0ab847a0bb55}{%
+           family={Vanderplas},
+           familyi={V\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=14c4a498c032f77d0b83f86c710dd50e}{%
+           family={Passos},
+           familyi={P\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=dc075b18fb4710a1a37b258804c57efe}{%
+           family={Cournapeau},
+           familyi={C\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=67ec0e8add781665a43010c9559111e9}{%
+           family={Brucher},
+           familyi={B\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=dcb3918f09eb8785e6b212a907cc37cf}{%
+           family={Perrot},
+           familyi={P\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=ab20fcf381cd45daa82417c6fc595051}{%
+           family={Duchesnay},
+           familyi={D\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{3a097aa3ebf2b8c2acf988341dde9710}
+      \strng{fullhash}{7a67607c66e4af944b5f16461d6d0a87}
+      \strng{bibnamehash}{3a097aa3ebf2b8c2acf988341dde9710}
+      \strng{authorbibnamehash}{3a097aa3ebf2b8c2acf988341dde9710}
+      \strng{authornamehash}{3a097aa3ebf2b8c2acf988341dde9710}
+      \strng{authorfullhash}{7a67607c66e4af944b5f16461d6d0a87}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Machine Learning Research}
+      \field{title}{Scikit-learn: Machine Learning in {P}ython}
+      \field{volume}{12}
+      \field{year}{2011}
+      \field{pages}{2825\bibrangedash 2830}
+      \range{pages}{6}
+    \endentry
+    \entry{rosvall2014memory}{article}{}
+      \name{author}{5}{}{%
+        {{hash=c4dd2419dfbbe40a99ed3f90f7a90f27}{%
+           family={Rosvall},
+           familyi={R\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod}}}%
+        {{hash=987943b5168f6d62f1b5a2030ba1493e}{%
+           family={Esquivel},
+           familyi={E\bibinitperiod},
+           given={Alcides\bibnamedelima V},
+           giveni={A\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{hash=831f2bfeca4c2e57705e84268455e7ed}{%
+           family={Lancichinetti},
+           familyi={L\bibinitperiod},
+           given={Andrea},
+           giveni={A\bibinitperiod}}}%
+        {{hash=10f684bc9123f007f5d99a6fd4054eaa}{%
+           family={West},
+           familyi={W\bibinitperiod},
+           given={Jevin\bibnamedelima D},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=a0bc3d83c54bda6a078936b2d87d6c9f}{%
+           family={Lambiotte},
+           familyi={L\bibinitperiod},
+           given={Renaud},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{65cdec499ab3f563f047bbf890b89a36}
+      \strng{fullhash}{63f07d539489e5e937b07f159521f07f}
+      \strng{bibnamehash}{65cdec499ab3f563f047bbf890b89a36}
+      \strng{authorbibnamehash}{65cdec499ab3f563f047bbf890b89a36}
+      \strng{authornamehash}{65cdec499ab3f563f047bbf890b89a36}
+      \strng{authorfullhash}{63f07d539489e5e937b07f159521f07f}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature communications}
+      \field{number}{1}
+      \field{title}{Memory in network flows and its effects on spreading dynamics and community detection}
+      \field{volume}{5}
+      \field{year}{2014}
+      \field{pages}{1\bibrangedash 13}
+      \range{pages}{13}
+    \endentry
+    \entry{salnikov2016}{article}{}
+      \name{author}{3}{}{%
+        {{hash=3e1af44b1459e345a134f599efa2299b}{%
+           family={Salnikov},
+           familyi={S\bibinitperiod},
+           given={Vsevolod},
+           giveni={V\bibinitperiod}}}%
+        {{hash=e5a7fd8be977cf65626c6f606dbe8780}{%
+           family={Schaub},
+           familyi={S\bibinitperiod},
+           given={Michael\bibnamedelima T},
+           giveni={M\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=a0bc3d83c54bda6a078936b2d87d6c9f}{%
+           family={Lambiotte},
+           familyi={L\bibinitperiod},
+           given={Renaud},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{2df52a2403fd27da0c17158b7eeb9f3b}
+      \strng{fullhash}{2df52a2403fd27da0c17158b7eeb9f3b}
+      \strng{bibnamehash}{2df52a2403fd27da0c17158b7eeb9f3b}
+      \strng{authorbibnamehash}{2df52a2403fd27da0c17158b7eeb9f3b}
+      \strng{authornamehash}{2df52a2403fd27da0c17158b7eeb9f3b}
+      \strng{authorfullhash}{2df52a2403fd27da0c17158b7eeb9f3b}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Scientific reports}
+      \field{number}{1}
+      \field{title}{Using higher-order Markov models to reveal flow-based communities in networks}
+      \field{volume}{6}
+      \field{year}{2016}
+      \field{pages}{1\bibrangedash 13}
+      \range{pages}{13}
+    \endentry
+    \entry{schaub2019multiscale}{article}{}
+      \name{author}{4}{}{%
+        {{hash=e5a7fd8be977cf65626c6f606dbe8780}{%
+           family={Schaub},
+           familyi={S\bibinitperiod},
+           given={Michael\bibnamedelima T},
+           giveni={M\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=63e5b5dc65c1466e64d0c06bfcd26619}{%
+           family={Delvenne},
+           familyi={D\bibinitperiod},
+           given={Jean-Charles},
+           giveni={J\bibinithyphendelim C\bibinitperiod}}}%
+        {{hash=a0bc3d83c54bda6a078936b2d87d6c9f}{%
+           family={Lambiotte},
+           familyi={L\bibinitperiod},
+           given={Renaud},
+           giveni={R\bibinitperiod}}}%
+        {{hash=614c7fcfbc8a87270b6fe1facf2f817b}{%
+           family={Barahona},
+           familyi={B\bibinitperiod},
+           given={Mauricio},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {APS}%
+      }
+      \strng{namehash}{aad438f9dab2bd674382bff7d65a65ee}
+      \strng{fullhash}{bc5dd4170d40fbc7745680a025ace89b}
+      \strng{bibnamehash}{aad438f9dab2bd674382bff7d65a65ee}
+      \strng{authorbibnamehash}{aad438f9dab2bd674382bff7d65a65ee}
+      \strng{authornamehash}{aad438f9dab2bd674382bff7d65a65ee}
+      \strng{authorfullhash}{bc5dd4170d40fbc7745680a025ace89b}
+      \field{extraname}{1}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Physical Review E}
+      \field{number}{6}
+      \field{title}{Multiscale dynamical embeddings of complex networks}
+      \field{volume}{99}
+      \field{year}{2019}
+      \field{pages}{062308}
+      \range{pages}{1}
+    \endentry
+    \entry{schaub2017many}{article}{}
+      \name{author}{4}{}{%
+        {{hash=e5a7fd8be977cf65626c6f606dbe8780}{%
+           family={Schaub},
+           familyi={S\bibinitperiod},
+           given={Michael\bibnamedelima T},
+           giveni={M\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=63e5b5dc65c1466e64d0c06bfcd26619}{%
+           family={Delvenne},
+           familyi={D\bibinitperiod},
+           given={Jean-Charles},
+           giveni={J\bibinithyphendelim C\bibinitperiod}}}%
+        {{hash=c4dd2419dfbbe40a99ed3f90f7a90f27}{%
+           family={Rosvall},
+           familyi={R\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod}}}%
+        {{hash=a0bc3d83c54bda6a078936b2d87d6c9f}{%
+           family={Lambiotte},
+           familyi={L\bibinitperiod},
+           given={Renaud},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{aad438f9dab2bd674382bff7d65a65ee}
+      \strng{fullhash}{c89422f49ee5f148f62b0060c57d2107}
+      \strng{bibnamehash}{aad438f9dab2bd674382bff7d65a65ee}
+      \strng{authorbibnamehash}{aad438f9dab2bd674382bff7d65a65ee}
+      \strng{authornamehash}{aad438f9dab2bd674382bff7d65a65ee}
+      \strng{authorfullhash}{c89422f49ee5f148f62b0060c57d2107}
+      \field{extraname}{2}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Applied network science}
+      \field{number}{1}
+      \field{title}{The many facets of community detection in complex networks}
+      \field{volume}{2}
+      \field{year}{2017}
+      \field{pages}{4}
+      \range{pages}{1}
+    \endentry
+  \enddatalist
+  \missing{lecs}
+  \missing{pons}
+  \missing{pons2006walktrap}
+\endrefsection
+\endinput
+

@@ -1,0 +1,20 @@
+[0] Config.pm:311> INFO - This is Biber 2.16
+[0] Config.pm:314> INFO - Logfile is 'main.blg'
+[120] biber-darwin:340> INFO - === Sun May  9, 2021, 18:53:30
+[138] Biber.pm:415> INFO - Reading 'main.bcf'
+[254] Biber.pm:952> INFO - Found 16 citekeys in bib section 0
+[268] Biber.pm:4340> INFO - Processing section 0
+[283] Biber.pm:4531> INFO - Looking for bibtex format file 'bibliography.bib' for section 0
+[285] bibtex.pm:1689> INFO - LaTeX decoding ...
+[310] bibtex.pm:1494> INFO - Found BibTeX data source 'bibliography.bib'
+[413] Utils.pm:395> WARN - legacy month field 'September' in entry 'boydnotes' is not an integer - this will probably not sort properly.
+[419] Utils.pm:395> WARN - I didn't find a database entry for 'pons2006walktrap' (section 0)
+[420] Utils.pm:395> WARN - I didn't find a database entry for 'pons' (section 0)
+[420] Utils.pm:395> WARN - I didn't find a database entry for 'lecs' (section 0)
+[441] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[441] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[441] Biber.pm:4168> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
+[441] Biber.pm:4174> INFO - No sort tailoring available for locale 'en-US'
+[455] bbl.pm:654> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[465] bbl.pm:757> INFO - Output to main.bbl
+[466] Biber.pm:128> INFO - WARNINGS: 4

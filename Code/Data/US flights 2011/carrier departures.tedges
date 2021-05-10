@@ -1,0 +1,3582 @@
+source	target	time
+Las Vegas, NV	San Francisco, CA	1
+Salt Lake City, UT	Long Beach, CA	1
+Las Vegas, NV	San Diego, CA	1
+Long Beach, CA	Memphis, TN	1
+Detroit, MI	San Jose, CA	1
+San Diego, CA	Bellingham, WA	1
+Chicago, IL	Los Angeles, CA	1
+Los Angeles, CA	Madison, WI	1
+Washington, DC	San Diego, CA	1
+Minneapolis, MN	San Francisco, CA	1
+Minneapolis, MN	San Francisco, CA	1
+Oakland, CA	Seattle, WA	1
+Santa Maria, CA	Las Vegas, NV	1
+Salt Lake City, UT	Sacramento, CA	1
+Merced, CA	Las Vegas, NV	1
+San Diego, CA	Tucson, AZ	1
+Los Angeles, CA	Las Vegas, NV	1
+Medford, OR	San Francisco, CA	1
+Columbus, OH	Los Angeles, CA	1
+Long Beach, CA	Salt Lake City, UT	1
+Austin, TX	Oakland, CA	1
+San Diego, CA	Newark, NJ	1
+Seattle, WA	Oakland, CA	1
+Portland, OR	San Francisco, CA	1
+Los Angeles, CA	San Francisco, CA	1
+Newark, NJ	Burbank, CA	1
+San Jose, CA	Sacramento, CA	1
+Crescent City, CA	Santa Barbara, CA	1
+Oakland, CA	Denver, CO	1
+Los Angeles, CA	Mammoth Lakes, CA	1
+Burbank, CA	Portland, OR	1
+San Diego, CA	Burbank, CA	1
+Indianapolis, IN	Oakland, CA	1
+San Francisco, CA	Baltimore, MD	1
+Lihue, HI	Los Angeles, CA	1
+Oakland, CA	Los Angeles, CA	1
+San Diego, CA	San Jose, CA	1
+Kansas City, MO	San Francisco, CA	1
+Santa Ana, CA	San Francisco, CA	1
+San Francisco, CA	Denver, CO	1
+Des Moines, IA	Burbank, CA	1
+Las Vegas, NV	Sacramento, CA	1
+Dallas/Fort Worth, TX	Ontario, CA	1
+Washington, DC	San Francisco, CA	1
+Phoenix, AZ	Palm Springs, CA	1
+Palm Springs, CA	Denver, CO	1
+San Luis Obispo, CA	San Francisco, CA	1
+San Francisco, CA	New York, NY	1
+Denver, CO	Monterey, CA	1
+San Jose, CA	Dallas/Fort Worth, TX	1
+Ontario, CA	Dallas, TX	1
+Los Angeles, CA	New Orleans, LA	1
+Santa Ana, CA	Denver, CO	1
+Salt Lake City, UT	Burbank, CA	1
+Los Angeles, CA	Austin, TX	1
+San Diego, CA	Phoenix, AZ	1
+Santa Ana, CA	Seattle, WA	1
+Burbank, CA	Thermal, CA	1
+Los Angeles, CA	Washington, DC	1
+Oakland, CA	Kansas City, MO	1
+Memphis, TN	Oakland, CA	1
+Honolulu, HI	San Francisco, CA	1
+Sacramento, CA	Denver, CO	1
+Seattle, WA	Oakland, CA	1
+Portland, OR	San Jose, CA	1
+Las Vegas, NV	Los Angeles, CA	1
+New York, NY	San Francisco, CA	1
+Monterey, CA	Phoenix, AZ	1
+Spokane, WA	San Francisco, CA	1
+San Francisco, CA	Teterboro, NJ	1
+Los Angeles, CA	Chicago, IL	1
+Dallas/Fort Worth, TX	Ontario, CA	1
+San Francisco, CA	Los Angeles, CA	1
+New Orleans, LA	Los Angeles, CA	1
+Lihue, HI	Los Angeles, CA	1
+San Diego, CA	Detroit, MI	1
+San Jose, CA	Phoenix, AZ	1
+Seattle, WA	San Francisco, CA	1
+Los Angeles, CA	Atlanta, GA	1
+San Francisco, CA	Albuquerque, NM	1
+Anchorage, AK	Los Angeles, CA	1
+Sun Valley/Hailey/Ketchum, ID	Santa Monica, CA	1
+Los Angeles, CA	Portland, OR	1
+Sacramento, CA	Phoenix, AZ	1
+Burbank, CA	Milwaukee, WI	1
+San Francisco, CA	Reno, NV	1
+Denver, CO	Los Angeles, CA	1
+Los Angeles, CA	Nashville, TN	1
+Palm Springs, CA	Phoenix, AZ	1
+San Diego, CA	Los Angeles, CA	1
+Los Angeles, CA	Newark, NJ	1
+Fresno, CA	San Antonio, TX	1
+Burbank, CA	Santa Barbara, CA	1
+San Diego, CA	Los Angeles, CA	1
+Seattle, WA	Oakland, CA	1
+Phoenix, AZ	Ontario, CA	1
+Memphis, TN	Burbank, CA	1
+Washington, DC	San Francisco, CA	1
+San Francisco, CA	Newark, NJ	1
+Portland, OR	Los Angeles, CA	1
+Chicago, IL	Los Angeles, CA	1
+Anchorage, AK	Los Angeles, CA	1
+Bellingham, WA	San Diego, CA	1
+Denver, CO	San Jose, CA	1
+Los Angeles, CA	Boise, ID	1
+Bakersfield, CA	Phoenix, AZ	1
+Burbank, CA	Seattle, WA	1
+Nashville, TN	Los Angeles, CA	1
+Orlando, FL	Los Angeles, CA	1
+Oakland, CA	San Antonio, TX	1
+Los Angeles, CA	Oakland, CA	1
+Burbank, CA	Salt Lake City, UT	1
+San Jose, CA	Seattle, WA	1
+Atlanta, GA	Ontario, CA	1
+Oakland, CA	Boise, ID	1
+Los Angeles, CA	Atlanta, GA	1
+Sun Valley/Hailey/Ketchum, ID	Los Angeles, CA	1
+New York, NY	Fairfield, CA	1
+Laredo, TX	Ontario, CA	1
+Newark, NJ	Oakland, CA	1
+Spokane, WA	Oakland, CA	1
+Sacramento, CA	Ontario, CA	1
+Los Angeles, CA	Salt Lake City, UT	1
+San Jose, CA	Toledo, OH	1
+Los Angeles, CA	Kansas City, MO	1
+Ontario, CA	West Palm Beach/Palm Beach, FL	1
+Sacramento, CA	Salt Lake City, UT	1
+San Jose, CA	Sacramento, CA	1
+Oakland, CA	Ontario, CA	1
+San Francisco, CA	Seattle, WA	1
+Dallas/Fort Worth, TX	San Jose, CA	1
+Teterboro, NJ	Burbank, CA	1
+New Orleans, LA	Los Angeles, CA	1
+Phoenix, AZ	San Francisco, CA	1
+Albuquerque, NM	Ontario, CA	1
+Phoenix, AZ	Ontario, CA	1
+San Jose, CA	Salt Lake City, UT	1
+Oakland, CA	Kansas City, MO	1
+Phoenix, AZ	Los Angeles, CA	1
+Los Angeles, CA	Newark, NJ	1
+San Jose, CA	New York, NY	1
+Spokane, WA	San Jose, CA	1
+Portland, OR	Sacramento, CA	1
+Nashville, TN	Long Beach, CA	1
+San Francisco, CA	Minneapolis, MN	1
+Denver, CO	San Diego, CA	1
+San Diego, CA	Seattle, WA	1
+Austin, TX	Los Angeles, CA	1
+Denver, CO	Sacramento, CA	1
+Van Nuys, CA	Bozeman, MT	1
+Chicago, IL	Burbank, CA	1
+San Francisco, CA	Salt Lake City, UT	1
+Sacramento, CA	Salt Lake City, UT	1
+Las Vegas, NV	Fresno, CA	1
+Los Angeles, CA	Kahului, HI	1
+San Francisco, CA	Santa Ana, CA	1
+San Jose, CA	Nashville, TN	1
+Sacramento, CA	Portland, OR	1
+Honolulu, HI	Los Angeles, CA	1
+Oakland, CA	Miami, FL	1
+Boston, MA	San Francisco, CA	1
+Sacramento, CA	Houston, TX	1
+San Francisco, CA	Seattle, WA	1
+Atlanta, GA	Los Angeles, CA	1
+Phoenix, AZ	Burbank, CA	1
+Grand Junction, CO	Oakland, CA	1
+Indianapolis, IN	Los Angeles, CA	1
+Los Angeles, CA	Albuquerque, NM	1
+New York, NY	San Francisco, CA	1
+Phoenix, AZ	Los Angeles, CA	1
+Seattle, WA	Palm Springs, CA	1
+New York, NY	San Jose, CA	1
+San Diego, CA	Memphis, TN	1
+Long Beach, CA	Bullhead City, AZ	1
+Portland, OR	Fresno, CA	1
+San Diego, CA	Long Beach, CA	1
+Fresno, CA	Twin Falls, ID	1
+Montrose/Delta, CO	Los Angeles, CA	1
+San Francisco, CA	Aspen, CO	1
+Denver, CO	Sacramento, CA	1
+Seattle, WA	Los Angeles, CA	1
+Salt Lake City, UT	Oakland, CA	1
+San Francisco, CA	Sacramento, CA	1
+San Diego, CA	Denver, CO	1
+Atlanta, GA	San Diego, CA	1
+Santa Barbara, CA	Phoenix, AZ	1
+San Jose, CA	Spokane, WA	1
+Charlotte, NC	Los Angeles, CA	1
+Denver, CO	San Francisco, CA	1
+Sacramento, CA	Spokane, WA	1
+Ontario, CA	San Diego, CA	1
+Minneapolis, MN	Palm Springs, CA	1
+Las Vegas, NV	San Jose, CA	1
+Santa Maria, CA	Los Angeles, CA	1
+Los Angeles, CA	Las Vegas, NV	1
+Memphis, TN	Sacramento, CA	1
+Detroit, MI	San Francisco, CA	1
+Louisville, KY	Los Angeles, CA	1
+Long Beach, CA	Denver, CO	1
+Honolulu, HI	Fairfield, CA	1
+Peoria, IL	San Diego, CA	1
+Los Angeles, CA	San Diego, CA	1
+Chicago, IL	San Diego, CA	1
+Oakland, CA	Las Vegas, NV	1
+San Francisco, CA	Portland, OR	1
+Las Vegas, NV	Burbank, CA	1
+San Francisco, CA	Milwaukee, WI	1
+Atlanta, GA	Los Angeles, CA	1
+Portland, OR	Santa Ana, CA	1
+Los Angeles, CA	New Orleans, LA	1
+Los Angeles, CA	Denver, CO	1
+San Diego, CA	Minneapolis, MN	1
+Philadelphia, PA	Los Angeles, CA	1
+Tucson, AZ	Los Angeles, CA	1
+Salt Lake City, UT	Sacramento, CA	1
+Cleveland, OH	Los Angeles, CA	1
+San Francisco, CA	Dallas/Fort Worth, TX	1
+San Diego, CA	Salt Lake City, UT	1
+Bullhead City, AZ	San Diego, CA	1
+San Diego, CA	Los Angeles, CA	1
+Seattle, WA	Los Angeles, CA	1
+Sacramento, CA	Arcata/Eureka, CA	1
+Los Angeles, CA	Dallas/Fort Worth, TX	1
+Los Angeles, CA	Salt Lake City, UT	1
+Fresno, CA	Los Angeles, CA	1
+Dallas/Fort Worth, TX	San Francisco, CA	1
+San Jose, CA	Salt Lake City, UT	1
+Philadelphia, PA	Los Angeles, CA	1
+Los Angeles, CA	Aspen, CO	1
+Eugene, OR	San Francisco, CA	1
+Los Angeles, CA	Atlanta, GA	1
+Ontario, CA	Santa Barbara, CA	1
+Boston, MA	Los Angeles, CA	1
+Ontario, CA	Los Angeles, CA	1
+San Diego, CA	Phoenix, AZ	1
+Memphis, TN	Sacramento, CA	1
+Monterey, CA	Phoenix, AZ	1
+Oakland, CA	Spokane, WA	1
+Los Angeles, CA	Portland, OR	1
+San Diego, CA	Minneapolis, MN	1
+Santa Ana, CA	Denver, CO	1
+Denver, CO	Santa Ana, CA	1
+Bullhead City, AZ	Burbank, CA	1
+Palm Springs, CA	Denver, CO	1
+Atlanta, GA	Los Angeles, CA	1
+Phoenix, AZ	Santa Ana, CA	1
+Oakland, CA	Philadelphia, PA	1
+Reno, NV	Santa Ana, CA	1
+Los Angeles, CA	Reno, NV	1
+San Diego, CA	Las Vegas, NV	1
+Kahului, HI	Oakland, CA	1
+Denver, CO	Ontario, CA	1
+Honolulu, HI	San Diego, CA	1
+Tampa, FL	Los Angeles, CA	1
+San Jose, CA	Minneapolis, MN	1
+Los Angeles, CA	San Francisco, CA	1
+Houston, TX	Santa Ana, CA	1
+Santa Ana, CA	Chicago, IL	1
+El Paso, TX	San Diego, CA	1
+Medford, OR	Crescent City, CA	1
+Reno, NV	San Jose, CA	1
+Sacramento, CA	Salt Lake City, UT	1
+Los Angeles, CA	Honolulu, HI	1
+Los Angeles, CA	San Antonio, TX	1
+Kona, HI	Oakland, CA	1
+Newark, NJ	Los Angeles, CA	1
+Austin, TX	San Jose, CA	1
+Los Angeles, CA	Medford, OR	1
+San Francisco, CA	Honolulu, HI	1
+Minneapolis, MN	San Diego, CA	1
+Burbank, CA	Las Vegas, NV	1
+Reno, NV	Los Angeles, CA	1
+Portland, OR	Oakland, CA	1
+Salt Lake City, UT	San Diego, CA	1
+Burbank, CA	Phoenix, AZ	1
+Albuquerque, NM	Los Angeles, CA	1
+Los Angeles, CA	Montrose/Delta, CO	1
+Las Vegas, NV	Santa Rosa, CA	1
+Chicago, IL	San Francisco, CA	1
+Phoenix, AZ	Santa Ana, CA	1
+New York, NY	Long Beach, CA	1
+Fort Lauderdale, FL	Los Angeles, CA	1
+Tucson, AZ	San Francisco, CA	1
+San Antonio, TX	Sacramento, CA	1
+San Francisco, CA	Las Vegas, NV	1
+San Jose, CA	San Diego, CA	1
+Indianapolis, IN	Los Angeles, CA	1
+Detroit, MI	San Francisco, CA	1
+San Francisco, CA	Minneapolis, MN	1
+Oakland, CA	Napa, CA	1
+Porterville, CA	Visalia, CA	1
+Columbia, SC	Ontario, CA	1
+Phoenix, AZ	Fresno, CA	1
+Oakland, CA	Las Vegas, NV	1
+Phoenix, AZ	San Francisco, CA	1
+Memphis, TN	Santa Ana, CA	1
+San Diego, CA	New York, NY	1
+Fresno, CA	Phoenix, AZ	1
+Burbank, CA	San Jose, CA	1
+Boston, MA	Los Angeles, CA	1
+San Francisco, CA	Houston, TX	1
+Boise, ID	Oakland, CA	1
+Los Angeles, CA	Toledo, OH	1
+Denver, CO	Bakersfield, CA	1
+Las Vegas, NV	Los Angeles, CA	1
+Las Vegas, NV	Los Angeles, CA	1
+Indianapolis, IN	Los Angeles, CA	1
+Denver, CO	San Jose, CA	1
+Los Angeles, CA	Washington, DC	1
+Seattle, WA	Santa Rosa, CA	1
+Los Angeles, CA	Pittsburgh, PA	1
+Burbank, CA	San Francisco, CA	1
+Oakland, CA	Denver, CO	1
+Fresno, CA	Seattle, WA	1
+Arcata/Eureka, CA	San Francisco, CA	1
+Seattle, WA	Burbank, CA	1
+Los Angeles, CA	Fort Lauderdale, FL	1
+San Francisco, CA	Baltimore, MD	1
+Oakland, CA	Burbank, CA	1
+Long Beach, CA	Colorado Springs, CO	1
+Phoenix, AZ	San Jose, CA	1
+Ontario, CA	Philadelphia, PA	1
+San Francisco, CA	Palm Springs, CA	2
+Sacramento, CA	Salt Lake City, UT	2
+Pasco/Kennewick/Richland, WA	Los Angeles, CA	2
+Los Angeles, CA	Grand Junction, CO	2
+Las Vegas, NV	San Francisco, CA	2
+Oakland, CA	Memphis, TN	2
+Reno, NV	San Jose, CA	2
+Kahului, HI	San Francisco, CA	2
+Phoenix, AZ	Bakersfield, CA	2
+Albuquerque, NM	Oakland, CA	2
+Phoenix, AZ	Los Angeles, CA	2
+Houston, TX	San Francisco, CA	2
+Phoenix, AZ	Los Angeles, CA	2
+Chicago, IL	Los Angeles, CA	2
+Denver, CO	San Jose, CA	2
+Ontario, CA	Phoenix, AZ	2
+San Francisco, CA	New York, NY	2
+Oakland, CA	Santa Ana, CA	2
+San Jose, CA	Austin, TX	2
+Houston, TX	Los Angeles, CA	2
+Cleveland, OH	Los Angeles, CA	2
+Carlsbad, CA	Los Angeles, CA	2
+San Jose, CA	Salt Lake City, UT	2
+Portland, OR	San Jose, CA	2
+Sacramento, CA	Bedford, MA	2
+San Francisco, CA	Las Vegas, NV	2
+Austin, TX	San Jose, CA	2
+Detroit, MI	San Diego, CA	2
+Palm Springs, CA	San Francisco, CA	2
+Sacramento, CA	Denver, CO	2
+San Diego, CA	Tucson, AZ	2
+Ontario, CA	Chicago, IL	2
+Orlando, FL	San Francisco, CA	2
+Reno, NV	Ontario, CA	2
+Miami, FL	Los Angeles, CA	2
+Las Vegas, NV	San Francisco, CA	2
+San Diego, CA	Houston, TX	2
+San Francisco, CA	San Diego, CA	2
+Oakland, CA	Philadelphia, PA	2
+Rockford, IL	Ontario, CA	2
+Phoenix, AZ	San Francisco, CA	2
+Honolulu, HI	San Francisco, CA	2
+Santa Barbara, CA	Phoenix, AZ	2
+Kansas City, MO	San Francisco, CA	2
+Sacramento, CA	Louisville, KY	2
+Reno, NV	San Francisco, CA	2
+Phoenix, AZ	San Diego, CA	2
+New York, NY	San Diego, CA	2
+San Francisco, CA	Dallas/Fort Worth, TX	2
+Las Vegas, NV	Los Angeles, CA	2
+Oakland, CA	Indianapolis, IN	2
+Atlanta, GA	Los Angeles, CA	2
+San Jose, CA	Monterey, CA	2
+Miami, FL	San Francisco, CA	2
+Boston, MA	Los Angeles, CA	2
+Denver, CO	San Jose, CA	2
+Los Angeles, CA	Burbank, CA	2
+San Jose, CA	Phoenix, AZ	2
+Chico, CA	Sacramento, CA	2
+San Francisco, CA	New York, NY	2
+Newark, NJ	Los Angeles, CA	2
+Oakland, CA	Las Vegas, NV	2
+Burbank, CA	Las Vegas, NV	2
+Los Angeles, CA	Houston, TX	2
+Sacramento, CA	Los Angeles, CA	2
+Portland, OR	Los Angeles, CA	2
+Los Angeles, CA	Detroit, MI	2
+Las Vegas, NV	Los Angeles, CA	2
+Thermal, CA	Burbank, CA	2
+Seattle, WA	Burbank, CA	2
+Albuquerque, NM	Los Angeles, CA	2
+San Jose, CA	Memphis, TN	2
+San Diego, CA	San Francisco, CA	2
+Albuquerque, NM	Ontario, CA	2
+Fresno, CA	San Francisco, CA	2
+Seattle, WA	Oakland, CA	2
+San Francisco, CA	Kahului, HI	2
+Phoenix, AZ	Long Beach, CA	2
+Los Angeles, CA	Miami, FL	2
+Los Angeles, CA	Omaha, NE	2
+Sacramento, CA	Kahului, HI	2
+Los Angeles, CA	Sun Valley/Hailey/Ketchum, ID	2
+Indianapolis, IN	Ontario, CA	2
+Kona, HI	Oakland, CA	2
+Salt Lake City, UT	San Francisco, CA	2
+Fresno, CA	Dallas/Fort Worth, TX	2
+Chicago, IL	San Francisco, CA	2
+Portland, OR	Sacramento, CA	2
+Denver, CO	San Diego, CA	2
+Washington, DC	San Francisco, CA	2
+Salt Lake City, UT	Sacramento, CA	2
+Van Nuys, CA	Dallas, TX	2
+Charlotte, NC	San Francisco, CA	2
+Honolulu, HI	San Francisco, CA	2
+Chico, CA	San Francisco, CA	2
+Los Angeles, CA	Wichita, KS	2
+San Francisco, CA	Houston, TX	2
+San Francisco, CA	Burbank, CA	2
+Los Angeles, CA	Dallas/Fort Worth, TX	2
+San Francisco, CA	Minneapolis, MN	2
+Los Angeles, CA	Denver, CO	2
+Denver, CO	Santa Barbara, CA	2
+Seattle, WA	Ontario, CA	2
+San Diego, CA	Memphis, TN	2
+Seattle, WA	Santa Ana, CA	2
+Sacramento, CA	Stockton, CA	2
+Honolulu, HI	Oakland, CA	2
+San Francisco, CA	Seattle, WA	2
+Visalia, CA	Oakland, CA	2
+Sacramento, CA	Seattle, WA	2
+Cincinnati, OH	Los Angeles, CA	2
+Memphis, TN	Los Angeles, CA	2
+Ontario, CA	Oakland, CA	2
+Portland, OR	San Francisco, CA	2
+Palm Springs, CA	Seattle, WA	2
+Ontario, CA	Los Angeles, CA	2
+Portland, OR	Santa Rosa, CA	2
+Dallas/Fort Worth, TX	San Jose, CA	2
+San Francisco, CA	Crescent City, CA	2
+Ontario, CA	Phoenix, AZ	2
+Denver, CO	Santa Ana, CA	2
+Monterey, CA	Bullhead City, AZ	2
+Los Angeles, CA	Boston, MA	2
+Boston, MA	San Francisco, CA	2
+Burbank, CA	Thermal, CA	2
+Ontario, CA	Louisville, KY	2
+Phoenix, AZ	Ontario, CA	2
+San Francisco, CA	Detroit, MI	2
+Santa Rosa, CA	Las Vegas, NV	2
+Los Angeles, CA	San Francisco, CA	2
+Los Angeles, CA	Orlando, FL	2
+Santa Barbara, CA	Phoenix, AZ	2
+Boston, MA	Long Beach, CA	2
+San Francisco, CA	Austin, TX	2
+Honolulu, HI	Los Angeles, CA	2
+Austin, TX	San Diego, CA	2
+Fresno, CA	Phoenix, AZ	2
+Newark, NJ	San Diego, CA	2
+San Jose, CA	Indianapolis, IN	2
+Sacramento, CA	Chicago, IL	2
+Seattle, WA	San Francisco, CA	2
+San Diego, CA	San Francisco, CA	2
+Fresno, CA	Salt Lake City, UT	2
+San Francisco, CA	Denver, CO	2
+Trenton, NJ	San Francisco, CA	2
+Long Beach, CA	Seattle, WA	2
+Los Angeles, CA	Honolulu, HI	2
+Los Angeles, CA	Monterey, CA	2
+Pittsburgh, PA	Los Angeles, CA	2
+Santa Ana, CA	Los Angeles, CA	2
+Los Angeles, CA	Atlanta, GA	2
+Oakland, CA	Kahului, HI	2
+Denver, CO	Sacramento, CA	2
+Denver, CO	San Francisco, CA	2
+Memphis, TN	Ontario, CA	2
+Las Vegas, NV	Los Angeles, CA	2
+New York, NY	San Francisco, CA	2
+San Francisco, CA	Cleveland, OH	2
+Los Angeles, CA	Oakland, CA	2
+New York, NY	Burbank, CA	2
+San Francisco, CA	Portland, OR	2
+San Jose, CA	Ontario, CA	2
+Inyokern, CA	Los Angeles, CA	2
+Sacramento, CA	Birmingham, AL	2
+San Francisco, CA	Denver, CO	2
+San Jose, CA	Los Angeles, CA	2
+Denver, CO	Los Angeles, CA	2
+San Jose, CA	Los Angeles, CA	2
+San Francisco, CA	Newark, NJ	2
+Santa Barbara, CA	Los Angeles, CA	2
+Phoenix, AZ	San Jose, CA	2
+Ontario, CA	Chicago, IL	2
+Salt Lake City, UT	Los Angeles, CA	2
+Omaha, NE	Los Angeles, CA	2
+San Jose, CA	Houston, TX	2
+Sacramento, CA	San Antonio, TX	2
+Burbank, CA	Phoenix, AZ	2
+Los Angeles, CA	Orlando, FL	2
+Tucson, AZ	Burbank, CA	2
+Seattle, WA	Oakland, CA	2
+Burbank, CA	San Jose, CA	2
+Atlanta, GA	San Jose, CA	2
+Chicago, IL	Sacramento, CA	2
+Seattle, WA	Los Angeles, CA	2
+Sacramento, CA	Los Angeles, CA	2
+Palm Springs, CA	Chicago, IL	2
+Miami, FL	Los Angeles, CA	2
+San Diego, CA	San Francisco, CA	2
+Portland, OR	Los Angeles, CA	2
+Seattle, WA	Oakland, CA	2
+Denver, CO	Monterey, CA	2
+Los Angeles, CA	Madison, WI	2
+Houston, TX	San Jose, CA	2
+Denver, CO	San Francisco, CA	2
+San Jose, CA	Boise, ID	2
+Lihue, HI	San Francisco, CA	2
+Los Angeles, CA	Sioux Falls, SD	2
+Portland, OR	Sacramento, CA	2
+Detroit, MI	Los Angeles, CA	2
+Sacramento, CA	Ontario, CA	2
+Las Vegas, NV	Los Angeles, CA	2
+Santa Ana, CA	Denver, CO	2
+Minneapolis, MN	Los Angeles, CA	2
+Las Vegas, NV	San Francisco, CA	2
+Los Angeles, CA	Minneapolis, MN	2
+Salt Lake City, UT	San Jose, CA	2
+Bellingham, WA	Long Beach, CA	2
+Washington, DC	Los Angeles, CA	2
+Sacramento, CA	Portland, OR	2
+Houston, TX	Oakland, CA	2
+Bullhead City, AZ	Ontario, CA	2
+Ontario, CA	San Jose, CA	2
+Orlando, FL	Los Angeles, CA	2
+Sun Valley/Hailey/Ketchum, ID	Burbank, CA	2
+Long Beach, CA	Colorado Springs, CO	2
+Louisville, KY	Long Beach, CA	2
+Detroit, MI	Los Angeles, CA	2
+San Jose, CA	Seattle, WA	2
+Los Angeles, CA	San Francisco, CA	2
+Palm Springs, CA	Denver, CO	2
+Oakland, CA	Salt Lake City, UT	2
+New York, NY	San Diego, CA	2
+Salt Lake City, UT	Sacramento, CA	2
+Washington, DC	San Francisco, CA	2
+Oakland, CA	Phoenix, AZ	2
+Phoenix, AZ	San Jose, CA	2
+Albuquerque, NM	San Diego, CA	2
+San Francisco, CA	San Diego, CA	2
+Charlotte, NC	Los Angeles, CA	2
+Tucson, AZ	Los Angeles, CA	2
+Seattle, WA	Los Angeles, CA	2
+Denver, CO	Santa Barbara, CA	2
+Memphis, TN	Los Angeles, CA	2
+Sacramento, CA	Palm Springs, CA	2
+Los Angeles, CA	Denver, CO	2
+El Centro, CA	San Diego, CA	2
+Los Angeles, CA	San Juan, PR	2
+Atlanta, GA	San Francisco, CA	2
+Sacramento, CA	Reno, NV	2
+Atlanta, GA	Los Angeles, CA	2
+Sacramento, CA	Arcata/Eureka, CA	2
+Minneapolis, MN	Sacramento, CA	2
+Oakland, CA	Salt Lake City, UT	2
+Phoenix, AZ	Sacramento, CA	2
+Visalia, CA	Ontario, CA	2
+Salt Lake City, UT	Fresno, CA	2
+San Francisco, CA	Kahului, HI	2
+Chicago, IL	San Diego, CA	2
+Phoenix, AZ	Ontario, CA	2
+Salt Lake City, UT	Long Beach, CA	2
+San Jose, CA	Toledo, OH	2
+San Francisco, CA	Burbank, CA	2
+Ontario, CA	Los Angeles, CA	2
+Phoenix, AZ	Los Angeles, CA	2
+San Francisco, CA	Monterey, CA	2
+Los Angeles, CA	Palm Springs, CA	2
+Reno, NV	Oakland, CA	2
+San Jose, CA	Denver, CO	2
+Ontario, CA	Long Beach, CA	2
+Long Beach, CA	Las Vegas, NV	2
+Burbank, CA	Seattle, WA	2
+Ontario, CA	Salina, KS	2
+Santa Ana, CA	Phoenix, AZ	2
+San Francisco, CA	Phoenix, AZ	2
+Ontario, CA	Dallas/Fort Worth, TX	2
+Los Angeles, CA	San Antonio, TX	2
+San Francisco, CA	Orlando, FL	2
+Seattle, WA	San Diego, CA	2
+Ontario, CA	New Orleans, LA	2
+Burbank, CA	Dallas/Fort Worth, TX	3
+San Francisco, CA	Honolulu, HI	3
+Santa Ana, CA	Atlanta, GA	3
+New York, NY	Long Beach, CA	3
+Seattle, WA	Burbank, CA	3
+Dallas/Fort Worth, TX	Ontario, CA	3
+Los Angeles, CA	Newark, NJ	3
+San Francisco, CA	Washington, DC	3
+San Francisco, CA	Seattle, WA	3
+Las Vegas, NV	San Diego, CA	3
+Sacramento, CA	Memphis, TN	3
+Los Angeles, CA	Honolulu, HI	3
+Oakland, CA	Burbank, CA	3
+Salina, KS	Burbank, CA	3
+Burbank, CA	San Francisco, CA	3
+Detroit, MI	Los Angeles, CA	3
+Oakland, CA	San Diego, CA	3
+Phoenix, AZ	San Diego, CA	3
+San Francisco, CA	Minneapolis, MN	3
+New York, NY	Sacramento, CA	3
+Chicago, IL	San Diego, CA	3
+Los Angeles, CA	Monterey, CA	3
+Portland, OR	Oakland, CA	3
+Fresno, CA	Monterey, CA	3
+Denver, CO	Bakersfield, CA	3
+San Jose, CA	Kahului, HI	3
+Ontario, CA	Bakersfield, CA	3
+Minneapolis, MN	Los Angeles, CA	3
+Los Angeles, CA	San Francisco, CA	3
+Chicago, IL	Burbank, CA	3
+San Francisco, CA	Aspen, CO	3
+Portland, OR	San Francisco, CA	3
+Burbank, CA	Chicago, IL	3
+San Francisco, CA	Minneapolis, MN	3
+Memphis, TN	Ontario, CA	3
+Seattle, WA	Sacramento, CA	3
+Minneapolis, MN	Palm Springs, CA	3
+Honolulu, HI	Oakland, CA	3
+San Diego, CA	Detroit, MI	3
+Los Angeles, CA	Memphis, TN	3
+San Francisco, CA	Chicago, IL	3
+Seattle, WA	San Francisco, CA	3
+Chico, CA	San Francisco, CA	3
+Los Angeles, CA	El Paso, TX	3
+Orlando, FL	Los Angeles, CA	3
+Wendover, UT	Modesto, CA	3
+Long Beach, CA	Bellingham, WA	3
+Long Beach, CA	Phoenix, AZ	3
+Houston, TX	San Francisco, CA	3
+Phoenix, AZ	Los Angeles, CA	3
+San Diego, CA	San Francisco, CA	3
+Dallas/Fort Worth, TX	Los Angeles, CA	3
+Boise, ID	San Francisco, CA	3
+Ontario, CA	Phoenix, AZ	3
+Salt Lake City, UT	Santa Ana, CA	3
+San Diego, CA	Washington, DC	3
+San Francisco, CA	San Diego, CA	3
+Los Angeles, CA	Kona, HI	3
+Los Angeles, CA	Tucson, AZ	3
+Los Angeles, CA	Anchorage, AK	3
+Ontario, CA	Sacramento, CA	3
+San Francisco, CA	Portland, OR	3
+Phoenix, AZ	Santa Barbara, CA	3
+Las Vegas, NV	San Francisco, CA	3
+Newark, NJ	Los Angeles, CA	3
+San Francisco, CA	Newark, NJ	3
+Oakland, CA	Philadelphia, PA	3
+San Jose, CA	Victorville, CA	3
+Los Angeles, CA	Las Vegas, NV	3
+New York, NY	Los Angeles, CA	3
+Los Angeles, CA	New York, NY	3
+Oakland, CA	Boise, ID	3
+Portland, OR	Sacramento, CA	3
+Palm Springs, CA	San Francisco, CA	3
+San Francisco, CA	Dallas/Fort Worth, TX	3
+Dallas/Fort Worth, TX	Los Angeles, CA	3
+Santa Ana, CA	Chicago, IL	3
+San Francisco, CA	Honolulu, HI	3
+Miami, FL	Los Angeles, CA	3
+Oakland, CA	Phoenix, AZ	3
+Las Vegas, NV	San Francisco, CA	3
+Los Angeles, CA	Charlotte, NC	3
+San Antonio, TX	Los Angeles, CA	3
+Seattle, WA	San Jose, CA	3
+Boston, MA	San Francisco, CA	3
+Los Angeles, CA	Memphis, TN	3
+Eugene, OR	Los Angeles, CA	3
+San Francisco, CA	Seattle, WA	3
+Los Angeles, CA	Miami, FL	3
+Teterboro, NJ	Santa Monica, CA	3
+Boston, MA	Los Angeles, CA	3
+Sacramento, CA	Phoenix, AZ	3
+Seattle, WA	San Jose, CA	3
+Minneapolis, MN	San Jose, CA	3
+Portland, OR	Oakland, CA	3
+San Francisco, CA	Detroit, MI	3
+San Jose, CA	Burbank, CA	3
+Ontario, CA	Louisville, KY	3
+Sacramento, CA	Oakland, CA	3
+Los Angeles, CA	San Jose, CA	3
+Louisville, KY	Oakland, CA	3
+Burbank, CA	Phoenix, AZ	3
+Los Angeles, CA	Memphis, TN	3
+Sacramento, CA	Phoenix, AZ	3
+St. Louis, MO	Los Angeles, CA	3
+Las Vegas, NV	Los Angeles, CA	3
+Las Vegas, NV	Sacramento, CA	3
+Oakland, CA	Bakersfield, CA	3
+Sacramento, CA	Boise, ID	3
+Albuquerque, NM	Los Angeles, CA	3
+Denver, CO	Monterey, CA	3
+San Jose, CA	Toledo, OH	3
+Salt Lake City, UT	Sacramento, CA	3
+Oakland, CA	Denver, CO	3
+San Francisco, CA	Cleveland, OH	3
+Oakland, CA	Seattle, WA	3
+Ontario, CA	Louisville, KY	3
+Toledo, OH	Los Angeles, CA	3
+Ontario, CA	Lexington, KY	3
+Palm Springs, CA	Bellingham, WA	3
+Medford, OR	San Francisco, CA	3
+Memphis, TN	Oakland, CA	3
+Los Angeles, CA	St. Louis, MO	3
+San Diego, CA	Washington, DC	3
+Kahului, HI	Los Angeles, CA	3
+Los Angeles, CA	Sacramento, CA	3
+Denver, CO	Monterey, CA	3
+Los Angeles, CA	Portland, OR	3
+Los Angeles, CA	Atlanta, GA	3
+Ontario, CA	Houston, TX	3
+Los Angeles, CA	San Diego, CA	3
+Los Angeles, CA	San Francisco, CA	3
+Oakland, CA	Cloverdale, CA	3
+Ontario, CA	Seattle, WA	3
+Los Angeles, CA	Washington, DC	3
+Boston, MA	San Francisco, CA	3
+Santa Ana, CA	Salt Lake City, UT	3
+Oakland, CA	Seattle, WA	3
+Napa, CA	Burbank, CA	3
+Austin, TX	San Francisco, CA	3
+San Diego, CA	Phoenix, AZ	3
+Fresno, CA	Phoenix, AZ	3
+Indianapolis, IN	San Jose, CA	3
+Phoenix, AZ	Ontario, CA	3
+Ontario, CA	San Diego, CA	3
+San Francisco, CA	Eugene, OR	3
+Los Angeles, CA	Houston, TX	3
+Austin, TX	Los Angeles, CA	3
+Los Angeles, CA	Dallas/Fort Worth, TX	3
+Oklahoma City, OK	Los Angeles, CA	3
+Long Beach, CA	Seattle, WA	3
+Cleveland, OH	Sacramento, CA	3
+San Francisco, CA	New York, NY	3
+Los Angeles, CA	Houston, TX	3
+Sacramento, CA	Seattle, WA	3
+Port Hueneme, CA	Seattle, WA	3
+Santa Barbara, CA	Denver, CO	3
+San Francisco, CA	Palm Springs, CA	3
+Arcata/Eureka, CA	Los Angeles, CA	3
+San Jose, CA	Austin, TX	3
+San Francisco, CA	Des Moines, IA	3
+Albuquerque, NM	San Diego, CA	3
+Los Angeles, CA	Oakland, CA	3
+Las Vegas, NV	Los Angeles, CA	3
+Portland, OR	Los Angeles, CA	3
+Santa Maria, CA	Atlanta, GA	3
+Phoenix, AZ	Sacramento, CA	3
+San Diego, CA	Portland, OR	3
+Ontario, CA	Santa Maria, CA	3
+San Diego, CA	Phoenix, AZ	3
+Sacramento, CA	Denver, CO	3
+New Orleans, LA	Los Angeles, CA	3
+Sacramento, CA	Denver, CO	3
+Phoenix, AZ	Bakersfield, CA	3
+Las Vegas, NV	Los Angeles, CA	3
+Ontario, CA	Los Angeles, CA	3
+Burbank, CA	Salt Lake City, UT	3
+Monterey, CA	Denver, CO	3
+Sacramento, CA	Minneapolis, MN	3
+Kahului, HI	Los Angeles, CA	3
+San Francisco, CA	Austin, TX	3
+Louisville, KY	San Diego, CA	3
+Chicago, IL	Los Angeles, CA	3
+Phoenix, AZ	Los Angeles, CA	3
+Phoenix, AZ	Santa Ana, CA	3
+Minneapolis, MN	Los Angeles, CA	3
+Houston, TX	San Francisco, CA	3
+Dallas/Fort Worth, TX	Ontario, CA	3
+Los Angeles, CA	Fayetteville, AR	3
+Oakland, CA	Reno, NV	3
+Los Angeles, CA	Fort Dix, NJ	3
+San Jose, CA	Portland, OR	3
+Seattle, WA	Oakland, CA	3
+Salt Lake City, UT	Long Beach, CA	3
+Kona, HI	Los Angeles, CA	3
+Santa Barbara, CA	Burbank, CA	3
+San Diego, CA	San Antonio, TX	3
+San Francisco, CA	Los Angeles, CA	3
+Salt Lake City, UT	Sacramento, CA	3
+Los Angeles, CA	Las Vegas, NV	3
+Portland, OR	San Diego, CA	3
+San Diego, CA	Los Angeles, CA	3
+San Jose, CA	Oakland, CA	3
+Sacramento, CA	Los Angeles, CA	3
+Dallas/Fort Worth, TX	Los Angeles, CA	3
+Sacramento, CA	New York, NY	3
+Los Angeles, CA	San Francisco, CA	3
+San Jose, CA	Los Angeles, CA	3
+Los Angeles, CA	Lake Tahoe, CA	3
+Visalia, CA	Las Vegas, NV	3
+Burbank, CA	Louisville, KY	3
+Oakland, CA	Salt Lake City, UT	3
+Palm Springs, CA	Phoenix, AZ	3
+San Francisco, CA	Las Vegas, NV	3
+Oakland, CA	Tulare, CA	3
+Los Angeles, CA	San Diego, CA	3
+Long Beach, CA	Burbank, CA	3
+Thermal, CA	Burbank, CA	3
+Burbank, CA	San Francisco, CA	3
+Tucson, AZ	San Diego, CA	3
+Monterey, CA	Sacramento, CA	3
+San Francisco, CA	Santa Ana, CA	3
+San Francisco, CA	Colorado Springs, CO	3
+Los Angeles, CA	San Jose, CA	3
+Los Angeles, CA	Kansas City, MO	3
+San Diego, CA	Tucson, AZ	3
+Denver, CO	San Jose, CA	3
+Ontario, CA	Houston, TX	3
+Indianapolis, IN	Oakland, CA	3
+Los Angeles, CA	San Diego, CA	3
+San Francisco, CA	Boise, ID	3
+San Francisco, CA	Burbank, CA	3
+San Diego, CA	Denver, CO	3
+San Diego, CA	Nashville, TN	3
+Santa Ana, CA	Portland, OR	3
+Los Angeles, CA	Miami, FL	3
+Salt Lake City, UT	Sacramento, CA	3
+Albuquerque, NM	Ontario, CA	3
+Phoenix, AZ	San Diego, CA	3
+Reno, NV	Oakland, CA	3
+Cleveland, OH	Los Angeles, CA	3
+Washington, DC	Los Angeles, CA	3
+Los Angeles, CA	Atlanta, GA	3
+Ontario, CA	Phoenix, AZ	3
+Louisville, KY	Ontario, CA	3
+Los Angeles, CA	Gulfport/Biloxi, MS	3
+San Jose, CA	Las Vegas, NV	3
+San Francisco, CA	Phoenix, AZ	3
+Washington, DC	Los Angeles, CA	3
+Los Angeles, CA	Orlando, FL	3
+Oakland, CA	Los Angeles, CA	3
+Phoenix, AZ	Los Angeles, CA	3
+Los Angeles, CA	Omaha, NE	3
+Honolulu, HI	Ontario, CA	3
+Louisville, KY	Sacramento, CA	3
+Los Angeles, CA	Salt Lake City, UT	3
+Rockford, IL	Ontario, CA	3
+Las Vegas, NV	Los Angeles, CA	3
+Seattle, WA	Los Angeles, CA	3
+Seattle, WA	San Diego, CA	3
+Portland, OR	Ontario, CA	3
+Denver, CO	Oakland, CA	3
+San Francisco, CA	Cincinnati, OH	3
+Santa Ana, CA	San Francisco, CA	3
+Los Angeles, CA	San Diego, CA	3
+Salt Lake City, UT	Los Angeles, CA	3
+Santa Ana, CA	Ontario, CA	3
+Mammoth Lakes, CA	San Jose, CA	3
+Fresno, CA	Oakland, CA	3
+Chicago, IL	Oakland, CA	3
+Oakland, CA	Las Vegas, NV	3
+Washington, DC	Sacramento, CA	3
+Ontario, CA	Seattle, WA	3
+Las Vegas, NV	San Diego, CA	3
+Seattle, WA	Oakland, CA	3
+Los Angeles, CA	New Orleans, LA	3
+Colorado Springs, CO	Long Beach, CA	3
+Los Angeles, CA	Las Vegas, NV	3
+Indianapolis, IN	Los Angeles, CA	3
+San Francisco, CA	Los Angeles, CA	3
+San Francisco, CA	Cleveland, OH	3
+Washington, DC	Los Angeles, CA	3
+Detroit, MI	San Diego, CA	3
+Oakland, CA	Phoenix, AZ	3
+Sacramento, CA	Burbank, CA	3
+Palm Springs, CA	San Francisco, CA	4
+Oakland, CA	Denver, CO	4
+Dallas/Fort Worth, TX	San Francisco, CA	4
+Denver, CO	San Francisco, CA	4
+Phoenix, AZ	Los Angeles, CA	4
+Oakland, CA	Albuquerque, NM	4
+San Diego, CA	Minneapolis, MN	4
+Los Angeles, CA	Orlando, FL	4
+Sacramento, CA	Boise, ID	4
+Sacramento, CA	Louisville, KY	4
+San Francisco, CA	Honolulu, HI	4
+Los Angeles, CA	Seattle, WA	4
+Sacramento, CA	Seattle, WA	4
+San Francisco, CA	San Antonio, TX	4
+Long Beach, CA	Memphis, TN	4
+Phoenix, AZ	Oakland, CA	4
+San Diego, CA	Phoenix, AZ	4
+San Jose, CA	Santa Ana, CA	4
+Los Angeles, CA	El Paso, TX	4
+San Francisco, CA	Seattle, WA	4
+Cleveland, OH	Los Angeles, CA	4
+Los Angeles, CA	New Orleans, LA	4
+San Diego, CA	Memphis, TN	4
+Oakland, CA	Kansas City, MO	4
+Kansas City, MO	Los Angeles, CA	4
+Phoenix, AZ	San Francisco, CA	4
+Long Beach, CA	Bellingham, WA	4
+Tucson, AZ	San Diego, CA	4
+Sacramento, CA	Houston, TX	4
+Baltimore, MD	Los Angeles, CA	4
+Oakland, CA	Dallas/Fort Worth, TX	4
+Los Angeles, CA	Reno, NV	4
+Newark, NJ	San Francisco, CA	4
+Los Angeles, CA	Las Vegas, NV	4
+Sacramento, CA	Atlanta, GA	4
+Seattle, WA	San Diego, CA	4
+Boston, MA	San Francisco, CA	4
+Denver, CO	San Francisco, CA	4
+Los Angeles, CA	Lihue, HI	4
+Sacramento, CA	Los Angeles, CA	4
+Los Angeles, CA	Sacramento, CA	4
+Ontario, CA	San Luis Obispo, CA	4
+Denver, CO	Fresno, CA	4
+San Jose, CA	Minneapolis, MN	4
+Seattle, WA	Los Angeles, CA	4
+St. Louis, MO	San Francisco, CA	4
+Salt Lake City, UT	San Francisco, CA	4
+Indianapolis, IN	Los Angeles, CA	4
+Los Angeles, CA	Seattle, WA	4
+Burbank, CA	Louisville, KY	4
+San Francisco, CA	Portland, OR	4
+Burbank, CA	San Jose, CA	4
+San Jose, CA	Los Angeles, CA	4
+Los Angeles, CA	Houston, TX	4
+Phoenix, AZ	Santa Ana, CA	4
+Burbank, CA	San Jose, CA	4
+Boise, ID	San Jose, CA	4
+Long Beach, CA	Fort Lauderdale, FL	4
+Seattle, WA	Ontario, CA	4
+San Francisco, CA	Las Vegas, NV	4
+Burbank, CA	San Francisco, CA	4
+Santa Ana, CA	Burbank, CA	4
+San Jose, CA	Salt Lake City, UT	4
+Palm Springs, CA	Las Vegas, NV	4
+Sacramento, CA	Portland, OR	4
+Palm Springs, CA	San Jose, CA	4
+Las Vegas, NV	Long Beach, CA	4
+Los Angeles, CA	Omaha, NE	4
+Chicago, IL	San Diego, CA	4
+Oakland, CA	Los Angeles, CA	4
+Los Angeles, CA	Duluth, MN	4
+San Diego, CA	Sacramento, CA	4
+Los Angeles, CA	Kansas City, MO	4
+Burbank, CA	Phoenix, AZ	4
+Boston, MA	Los Angeles, CA	4
+Detroit, MI	Los Angeles, CA	4
+Louisville, KY	Sacramento, CA	4
+San Francisco, CA	Seattle, WA	4
+Albuquerque, NM	Los Angeles, CA	4
+Santa Ana, CA	Memphis, TN	4
+Washington, DC	San Diego, CA	4
+San Jose, CA	Louisville, KY	4
+Seattle, WA	Santa Rosa, CA	4
+Los Angeles, CA	New Orleans, LA	4
+Phoenix, AZ	Sacramento, CA	4
+Honolulu, HI	Los Angeles, CA	4
+San Francisco, CA	Los Angeles, CA	4
+Memphis, TN	Sacramento, CA	4
+Wendover, UT	Redding, CA	4
+Bakersfield, CA	San Diego, CA	4
+San Juan, PR	Los Angeles, CA	4
+Portland, OR	San Francisco, CA	4
+Denver, CO	Los Angeles, CA	4
+Los Angeles, CA	Las Vegas, NV	4
+Los Angeles, CA	Chicago, IL	4
+Phoenix, AZ	Sacramento, CA	4
+Ontario, CA	San Diego, CA	4
+Palm Springs, CA	Chicago, IL	4
+Sacramento, CA	Denver, CO	4
+El Centro, CA	San Diego, CA	4
+Los Angeles, CA	Detroit, MI	4
+Ontario, CA	Oakland, CA	4
+Las Vegas, NV	Merced, CA	4
+Seattle, WA	Fresno, CA	4
+Los Angeles, CA	Denver, CO	4
+San Francisco, CA	Houston, TX	4
+Los Angeles, CA	Honolulu, HI	4
+San Francisco, CA	Denver, CO	4
+Denver, CO	Los Angeles, CA	4
+Austin, TX	Los Angeles, CA	4
+Houston, TX	Los Angeles, CA	4
+Kansas City, MO	San Francisco, CA	4
+San Francisco, CA	Phoenix, AZ	4
+Chicago, IL	Santa Ana, CA	4
+Atlanta, GA	San Francisco, CA	4
+San Jose, CA	Toledo, OH	4
+San Jose, CA	Bullhead City, AZ	4
+San Diego, CA	Phoenix, AZ	4
+Kona, HI	San Diego, CA	4
+Los Angeles, CA	Tulsa, OK	4
+Salt Lake City, UT	Oakland, CA	4
+Dallas/Fort Worth, TX	Fresno, CA	4
+Ontario, CA	Denver, CO	4
+Phoenix, AZ	San Francisco, CA	4
+Portland, OR	San Diego, CA	4
+Reno, NV	San Diego, CA	4
+Ontario, CA	Phoenix, AZ	4
+Las Vegas, NV	Santa Maria, CA	4
+Kahului, HI	Oakland, CA	4
+Santa Rosa, CA	Los Angeles, CA	4
+San Francisco, CA	San Diego, CA	4
+San Francisco, CA	New York, NY	4
+Los Angeles, CA	Phoenix, AZ	4
+Las Vegas, NV	San Francisco, CA	4
+Memphis, TN	Fresno, CA	4
+Nashville, TN	Long Beach, CA	4
+San Diego, CA	Dallas/Fort Worth, TX	4
+Los Angeles, CA	Kona, HI	4
+Santa Ana, CA	Sacramento, CA	4
+Phoenix, AZ	San Jose, CA	4
+Portland, OR	Fresno, CA	4
+San Francisco, CA	Philadelphia, PA	4
+Detroit, MI	Long Beach, CA	4
+Phoenix, AZ	Palm Springs, CA	4
+Denver, CO	Los Angeles, CA	4
+Los Angeles, CA	Oakland, CA	4
+San Francisco, CA	Newark, NJ	4
+Medford, OR	San Francisco, CA	4
+Sacramento, CA	Washington, DC	4
+Las Vegas, NV	Santa Monica, CA	4
+Portland, OR	San Francisco, CA	4
+Burbank, CA	Ontario, CA	4
+Los Angeles, CA	Boise, ID	4
+Cincinnati, OH	Los Angeles, CA	4
+Atlanta, GA	San Francisco, CA	4
+Long Beach, CA	Phoenix, AZ	4
+Denver, CO	San Francisco, CA	4
+San Jose, CA	Memphis, TN	4
+Ontario, CA	Phoenix, AZ	4
+Los Angeles, CA	Dallas/Fort Worth, TX	4
+Pittsburgh, PA	San Francisco, CA	4
+Oakland, CA	Salt Lake City, UT	4
+San Francisco, CA	San Luis Obispo, CA	4
+Detroit, MI	San Francisco, CA	4
+Phoenix, AZ	Ontario, CA	4
+Los Angeles, CA	Colorado Springs, CO	4
+Los Angeles, CA	Washington, DC	4
+Portland, OR	Los Angeles, CA	4
+Santa Ana, CA	Grand Junction, CO	4
+Washington, DC	San Diego, CA	4
+Los Angeles, CA	Portland, OR	4
+Seattle, WA	San Jose, CA	4
+Los Angeles, CA	Jackson, WY	4
+Chicago, IL	Los Angeles, CA	4
+St. George, UT	Los Angeles, CA	4
+Salt Lake City, UT	Long Beach, CA	4
+Honolulu, HI	San Francisco, CA	4
+Portland, OR	Oakland, CA	4
+Honolulu, HI	San Francisco, CA	4
+Phoenix, AZ	San Diego, CA	4
+Los Angeles, CA	Wichita Falls, TX	4
+Burbank, CA	Santa Monica, CA	4
+San Diego, CA	Omaha, NE	4
+San Francisco, CA	Salt Lake City, UT	4
+Los Angeles, CA	San Jose, CA	4
+Palm Springs, CA	San Francisco, CA	4
+Phoenix, AZ	Oakland, CA	4
+Cleveland, OH	San Francisco, CA	4
+Ontario, CA	Portland, OR	4
+Eugene, OR	Los Angeles, CA	4
+Denver, CO	Oakland, CA	4
+Los Angeles, CA	Salt Lake City, UT	4
+Denver, CO	Monterey, CA	4
+San Jose, CA	Burbank, CA	4
+Salt Lake City, UT	Sacramento, CA	4
+Long Beach, CA	Oakland, CA	4
+Sacramento, CA	Ukiah, CA	4
+Los Angeles, CA	Inyokern, CA	4
+Chicago, IL	Palm Springs, CA	4
+Las Vegas, NV	Los Angeles, CA	4
+Santa Ana, CA	San Francisco, CA	4
+San Diego, CA	Los Angeles, CA	4
+Redding, CA	San Francisco, CA	4
+Boston, MA	San Francisco, CA	4
+Los Angeles, CA	Denver, CO	4
+Oakland, CA	Seattle, WA	4
+Sacramento, CA	Phoenix, AZ	4
+Salt Lake City, UT	Long Beach, CA	4
+Sacramento, CA	Denver, CO	4
+Louisville, KY	Sacramento, CA	4
+Oakland, CA	Hillsboro, OR	4
+Toledo, OH	Los Angeles, CA	4
+Phoenix, AZ	San Diego, CA	4
+Murrieta/Temecula, CA	Kingman, AZ	4
+Oakland, CA	Seattle, WA	4
+Sacramento, CA	Denver, CO	4
+Palm Springs, CA	Los Angeles, CA	4
+Denver, CO	San Diego, CA	4
+New York, NY	San Diego, CA	4
+Santa Ana, CA	Denver, CO	4
+Portland, OR	Burbank, CA	4
+Oakland, CA	Phoenix, AZ	4
+Los Angeles, CA	Boston, MA	4
+Ontario, CA	Memphis, TN	4
+Minneapolis, MN	San Francisco, CA	4
+Houston, TX	San Diego, CA	4
+Los Angeles, CA	Carlsbad, CA	4
+San Diego, CA	Minneapolis, MN	4
+San Francisco, CA	Detroit, MI	4
+Portland, OR	San Jose, CA	4
+Los Angeles, CA	Sacramento, CA	4
+San Francisco, CA	Ontario, CA	4
+Des Moines, IA	San Jose, CA	4
+Dallas/Fort Worth, TX	Santa Ana, CA	4
+Los Angeles, CA	Pittsburgh, PA	4
+El Centro, CA	Los Angeles, CA	4
+Houston, TX	Ontario, CA	4
+San Jose, CA	Portland, OR	4
+Chicago, IL	Santa Ana, CA	4
+Los Angeles, CA	Honolulu, HI	4
+San Francisco, CA	Chicago, IL	4
+Teterboro, NJ	Santa Barbara, CA	4
+Honolulu, HI	Los Angeles, CA	4
+San Diego, CA	Baltimore, MD	4
+Burbank, CA	Santa Barbara, CA	4
+Oakland, CA	Salt Lake City, UT	4
+Memphis, TN	Los Angeles, CA	4
+Oakland, CA	Denver, CO	4
+Santa Barbara, CA	Minneapolis/St. Paul, MN	4
+San Francisco, CA	Phoenix, AZ	4
+Burbank, CA	Honolulu, HI	4
+Denver, CO	Palm Springs, CA	4
+Teterboro, NJ	Burbank, CA	4
+Los Angeles, CA	Las Vegas, NV	4
+Las Vegas, NV	Santa Monica, CA	4
+San Diego, CA	Reno, NV	4
+San Francisco, CA	Baltimore, MD	4
+Phoenix, AZ	San Luis Obispo, CA	4
+Ontario, CA	Honolulu, HI	4
+Burbank, CA	Phoenix, AZ	4
+Salt Lake City, UT	Ontario, CA	4
+Los Angeles, CA	Houston, TX	4
+Seattle, WA	Los Angeles, CA	4
+Boise, ID	Oakland, CA	4
+Oakland, CA	Salt Lake City, UT	4
+San Francisco, CA	Las Vegas, NV	4
+Santa Ana, CA	Chicago, IL	4
+Santa Ana, CA	Chicago, IL	4
+Los Angeles, CA	Houston, TX	4
+San Jose, CA	Phoenix, AZ	4
+San Jose, CA	Portland, OR	4
+Los Angeles, CA	New Orleans, LA	4
+Denver, CO	Sacramento, CA	4
+Oakland, CA	Salina, KS	4
+Salt Lake City, UT	San Diego, CA	4
+San Francisco, CA	San Diego, CA	4
+San Francisco, CA	Minneapolis, MN	4
+Arcata/Eureka, CA	Los Angeles, CA	4
+Palm Springs, CA	Wichita, KS	4
+Reno, NV	Sacramento, CA	4
+San Jose, CA	Bend/Redmond, OR	4
+Los Angeles, CA	Washington, DC	4
+San Jose, CA	Seattle, WA	4
+Burbank, CA	Phoenix, AZ	4
+Cleveland, OH	San Francisco, CA	4
+San Francisco, CA	Dallas/Fort Worth, TX	4
+San Luis Obispo, CA	Phoenix, AZ	4
+Los Angeles, CA	Phoenix, AZ	4
+Fresno, CA	Wendover, UT	4
+Fresno, CA	Ontario, CA	5
+Los Angeles, CA	Honolulu, HI	5
+Chicago, IL	Santa Ana, CA	5
+Phoenix, AZ	Fresno, CA	5
+Sacramento, CA	Long Beach, CA	5
+Austin, TX	San Jose, CA	5
+Dallas/Fort Worth, TX	Ontario, CA	5
+Los Angeles, CA	Chicago, IL	5
+Salt Lake City, UT	Long Beach, CA	5
+Los Angeles, CA	Oklahoma City, OK	5
+San Jose, CA	Denver, CO	5
+Los Angeles, CA	Santa Maria, CA	5
+Los Angeles, CA	Atlanta, GA	5
+San Jose, CA	Portland, OR	5
+Los Angeles, CA	Boise, ID	5
+Los Angeles, CA	Mammoth Lakes, CA	5
+Houston, TX	Los Angeles, CA	5
+Philadelphia, PA	Los Angeles, CA	5
+San Diego, CA	Denver, CO	5
+New York, NY	Long Beach, CA	5
+San Francisco, CA	Baltimore, MD	5
+San Jose, CA	Santa Barbara, CA	5
+Bangor, ME	Santa Barbara, CA	5
+Fresno, CA	Louisville, KY	5
+San Diego, CA	Phoenix, AZ	5
+San Diego, CA	Portland, OR	5
+San Diego, CA	Seattle, WA	5
+Ontario, CA	Phoenix, AZ	5
+Los Angeles, CA	Nashville, TN	5
+Los Angeles, CA	Milwaukee, WI	5
+Crescent City, CA	Sacramento, CA	5
+San Francisco, CA	Shenandoah, IA	5
+Los Angeles, CA	Bakersfield, CA	5
+Ontario, CA	Houston, TX	5
+San Diego, CA	Boston, MA	5
+Los Angeles, CA	San Luis Obispo, CA	5
+Burbank, CA	San Francisco, CA	5
+Reno, NV	San Jose, CA	5
+Phoenix, AZ	Oakland, CA	5
+Burbank, CA	Sacramento, CA	5
+Long Beach, CA	San Diego, CA	5
+San Francisco, CA	Dallas/Fort Worth, TX	5
+Las Vegas, NV	San Francisco, CA	5
+Santa Ana, CA	Las Vegas, NV	5
+Los Angeles, CA	Dallas/Fort Worth, TX	5
+Sacramento, CA	Salt Lake City, UT	5
+Atlanta, GA	San Jose, CA	5
+Denver, CO	San Jose, CA	5
+San Francisco, CA	Phoenix, AZ	5
+San Francisco, CA	Minneapolis, MN	5
+Phoenix, AZ	San Francisco, CA	5
+New York, NY	Los Angeles, CA	5
+Kahului, HI	Los Angeles, CA	5
+Kahului, HI	Oakland, CA	5
+Albuquerque, NM	Los Angeles, CA	5
+Oakland, CA	Memphis, TN	5
+Los Angeles, CA	Portland, OR	5
+San Francisco, CA	Los Angeles, CA	5
+Oakland, CA	Portland, OR	5
+Los Angeles, CA	Denver, CO	5
+Houston, TX	San Diego, CA	5
+Seattle, WA	Sacramento, CA	5
+Chicago, IL	Long Beach, CA	5
+Los Angeles, CA	Denver, CO	5
+San Francisco, CA	Minneapolis, MN	5
+Nashville, TN	San Diego, CA	5
+Portland, OR	San Francisco, CA	5
+San Francisco, CA	Albuquerque, NM	5
+Indianapolis, IN	Los Angeles, CA	5
+Seattle, WA	Santa Barbara, CA	5
+Denver, CO	San Diego, CA	5
+San Jose, CA	Denver, CO	5
+Ontario, CA	Portland, OR	5
+Salina, KS	Burbank, CA	5
+Kansas City, MO	San Jose, CA	5
+San Francisco, CA	Los Angeles, CA	5
+Minneapolis, MN	San Francisco, CA	5
+Ontario, CA	Prescott, AZ	5
+Las Vegas, NV	Los Angeles, CA	5
+San Jose, CA	St. Louis, MO	5
+Austin, TX	San Diego, CA	5
+San Jose, CA	Atlanta, GA	5
+Ontario, CA	Las Vegas, NV	5
+Grand Junction, CO	Los Angeles, CA	5
+Denver, CO	Sacramento, CA	5
+Las Vegas, NV	Sacramento, CA	5
+Miami, FL	San Francisco, CA	5
+Burbank, CA	Teterboro, NJ	5
+Santa Monica, CA	Burbank, CA	5
+Phoenix, AZ	Burbank, CA	5
+San Francisco, CA	Washington, DC	5
+Boston, MA	San Francisco, CA	5
+Cincinnati, OH	Los Angeles, CA	5
+Las Vegas, NV	San Francisco, CA	5
+San Diego, CA	Minneapolis, MN	5
+San Francisco, CA	Las Vegas, NV	5
+San Francisco, CA	Minneapolis, MN	5
+Honolulu, HI	Ontario, CA	5
+East Farmingdale, NY	Burbank, CA	5
+Denver, CO	Los Angeles, CA	5
+San Francisco, CA	Des Moines, IA	5
+Seattle, WA	San Francisco, CA	5
+Los Angeles, CA	Detroit, MI	5
+Atlanta, GA	Los Angeles, CA	5
+Milwaukee, WI	San Diego, CA	5
+Cleveland, OH	San Francisco, CA	5
+San Francisco, CA	Milwaukee, WI	5
+Los Angeles, CA	Medford, OR	5
+San Francisco, CA	Denver, CO	5
+Oakland, CA	Seattle, WA	5
+San Jose, CA	Kahului, HI	5
+Burbank, CA	Oakland, CA	5
+San Francisco, CA	Los Angeles, CA	5
+Denver, CO	San Francisco, CA	5
+Santa Ana, CA	Phoenix, AZ	5
+Louisville, KY	Burbank, CA	5
+Teterboro, NJ	Burbank, CA	5
+Santa Ana, CA	Denver, CO	5
+Ontario, CA	Portland, OR	5
+Denver, CO	Oakland, CA	5
+Atlanta, GA	San Diego, CA	5
+Los Angeles, CA	Denver, CO	5
+Minneapolis/St. Paul, MN	Santa Barbara, CA	5
+Denver, CO	San Diego, CA	5
+San Francisco, CA	Houston, TX	5
+Columbia, SC	Ontario, CA	5
+Las Vegas, NV	Burbank, CA	5
+Oakland, CA	Houston, TX	5
+Pasco/Kennewick/Richland, WA	Los Angeles, CA	5
+Los Angeles, CA	Houston, TX	5
+Burbank, CA	Seattle, WA	5
+Salt Lake City, UT	San Diego, CA	5
+Minneapolis, MN	San Diego, CA	5
+Los Angeles, CA	Lubbock, TX	5
+Memphis, TN	Ontario, CA	5
+Fort Myers, FL	Los Angeles, CA	5
+Burbank, CA	Schenectady, NY	5
+Seattle, WA	Sacramento, CA	5
+Portland, OR	San Francisco, CA	5
+San Francisco, CA	St. Louis, MO	5
+Los Angeles, CA	Las Vegas, NV	5
+San Francisco, CA	Palm Springs, CA	5
+San Diego, CA	New York, NY	5
+Phoenix, AZ	Monterey, CA	5
+Ontario, CA	Honolulu, HI	5
+Seattle, WA	Fresno, CA	5
+Sacramento, CA	Atlanta, GA	5
+Seattle, WA	San Diego, CA	5
+San Jose, CA	Phoenix, AZ	5
+Denver, CO	Burbank, CA	5
+San Francisco, CA	Las Vegas, NV	5
+Chicago, IL	San Diego, CA	5
+Sacramento, CA	Portland, OR	5
+San Francisco, CA	Salt Lake City, UT	5
+Hilo, HI	Los Angeles, CA	5
+Oakland, CA	Indianapolis, IN	5
+Portland, OR	Burbank, CA	5
+Los Angeles, CA	Kahului, HI	5
+San Jose, CA	Indianapolis, IN	5
+Denver, CO	San Diego, CA	5
+Phoenix, AZ	Ontario, CA	5
+San Francisco, CA	Los Angeles, CA	5
+Phoenix, AZ	San Diego, CA	5
+Los Angeles, CA	Orlando, FL	5
+Burbank, CA	Sacramento, CA	5
+New York, NY	San Diego, CA	5
+Santa Ana, CA	Atlanta, GA	5
+Salt Lake City, UT	San Jose, CA	5
+Ontario, CA	Salt Lake City, UT	5
+Los Angeles, CA	Tucson, AZ	5
+Baltimore, MD	San Francisco, CA	5
+Ontario, CA	Lexington, KY	5
+Denver, CO	Los Angeles, CA	5
+Santa Ana, CA	Abilene, TX	5
+Fort Lauderdale, FL	Los Angeles, CA	5
+Albuquerque, NM	Ontario, CA	5
+San Francisco, CA	Denver, CO	5
+Los Angeles, CA	Colorado Springs, CO	5
+Portland, OR	San Diego, CA	5
+Hilo, HI	Los Angeles, CA	5
+Oakland, CA	Denver, CO	5
+Seattle, WA	Los Angeles, CA	5
+Arcata/Eureka, CA	Sacramento, CA	5
+New York, NY	San Diego, CA	5
+Phoenix, AZ	Santa Ana, CA	5
+San Francisco, CA	Oklahoma City, OK	5
+Columbus, OH	Los Angeles, CA	5
+Santa Ana, CA	Huntsville, AL	5
+Santa Ana, CA	Phoenix, AZ	5
+New Orleans, LA	Los Angeles, CA	5
+Spokane, WA	San Francisco, CA	5
+Seattle, WA	San Jose, CA	5
+San Francisco, CA	Portland, OR	5
+Las Vegas, NV	Sacramento, CA	5
+Denver, CO	Santa Barbara, CA	5
+Salt Lake City, UT	Ontario, CA	5
+Santa Barbara, CA	Denver, CO	5
+San Francisco, CA	Newark, NJ	5
+Los Angeles, CA	Las Vegas, NV	5
+San Diego, CA	Los Angeles, CA	5
+Salt Lake City, UT	Oakland, CA	5
+San Jose, CA	Portland, OR	5
+Portland, OR	Ontario, CA	5
+Los Angeles, CA	San Jose, CA	5
+Washington, DC	Los Angeles, CA	5
+Los Angeles, CA	Reno, NV	5
+San Diego, CA	Memphis, TN	5
+Sacramento, CA	Kansas City, MO	5
+Palm Springs, CA	Denver, CO	5
+San Francisco, CA	Las Vegas, NV	5
+Los Angeles, CA	Salt Lake City, UT	5
+Phoenix, AZ	Ontario, CA	5
+Bakersfield, CA	Bullhead City, AZ	5
+San Diego, CA	Los Angeles, CA	5
+Cincinnati, OH	Los Angeles, CA	5
+Los Angeles, CA	Orlando, FL	5
+San Francisco, CA	Burbank, CA	5
+Los Angeles, CA	Las Vegas, NV	5
+Ontario, CA	Salt Lake City, UT	5
+Seattle, WA	Ontario, CA	5
+Bishop, CA	Inyokern, CA	5
+Honolulu, HI	San Francisco, CA	5
+Van Nuys, CA	Washington, DC	5
+Los Angeles, CA	Kansas City, MO	5
+Phoenix, AZ	Santa Ana, CA	5
+Honolulu, HI	Los Angeles, CA	5
+San Jose, CA	Salt Lake City, UT	5
+Burbank, CA	Wichita Falls, TX	5
+Spokane, WA	Oakland, CA	5
+San Francisco, CA	Long Beach, CA	5
+Los Angeles, CA	Moline, IL	5
+Sacramento, CA	Portland, OR	5
+Washington, DC	Sacramento, CA	5
+Salt Lake City, UT	Los Angeles, CA	5
+San Jose, CA	Burbank, CA	5
+Portland, OR	San Jose, CA	5
+Los Angeles, CA	Fresno, CA	5
+Salt Lake City, UT	Ontario, CA	5
+Los Angeles, CA	Dallas/Fort Worth, TX	5
+Seattle, WA	San Francisco, CA	5
+Los Angeles, CA	Kansas City, MO	5
+Los Angeles, CA	Wichita, KS	5
+Milwaukee, WI	Los Angeles, CA	5
+San Diego, CA	Abilene, TX	5
+San Diego, CA	Milwaukee, WI	5
+San Antonio, TX	San Francisco, CA	5
+San Francisco, CA	Philadelphia, PA	5
+Sacramento, CA	Salt Lake City, UT	5
+Seattle, WA	Oakland, CA	5
+Ontario, CA	Midland/Odessa, TX	5
+Honolulu, HI	San Francisco, CA	5
+Sacramento, CA	Minneapolis, MN	5
+San Diego, CA	El Centro, CA	5
+Phoenix, AZ	Long Beach, CA	5
+Los Angeles, CA	Rockford, IL	5
+Las Vegas, NV	San Francisco, CA	5
+Denver, CO	Burbank, CA	5
+Atlanta, GA	Santa Ana, CA	5
+Dallas, TX	Los Angeles, CA	5
+Dallas/Fort Worth, TX	Los Angeles, CA	5
+Atlanta, GA	Santa Monica, CA	5
+Orlando, FL	San Francisco, CA	5
+Honolulu, HI	San Francisco, CA	5
+Oakland, CA	Los Angeles, CA	5
+Baltimore, MD	San Francisco, CA	5
+Orlando, FL	Los Angeles, CA	5
+Dallas/Fort Worth, TX	Los Angeles, CA	5
+Reno, NV	Los Angeles, CA	5
+New Orleans, LA	San Francisco, CA	5
+Los Angeles, CA	San Francisco, CA	5
+Phoenix, AZ	Los Angeles, CA	5
+Pasco/Kennewick/Richland, WA	San Francisco, CA	5
+Oakland, CA	Eugene, OR	5
+Ontario, CA	Rockford, IL	5
+Washington, DC	Los Angeles, CA	5
+Newark, NJ	Los Angeles, CA	5
+Phoenix, AZ	San Diego, CA	5
+Sacramento, CA	Louisville, KY	5
+Los Angeles, CA	Houston, TX	5
+Sacramento, CA	El Paso, TX	5
+Phoenix, AZ	San Diego, CA	5
+Burbank, CA	San Jose, CA	5
+Fresno, CA	Santa Barbara, CA	5
+Memphis, TN	Los Angeles, CA	5
+Los Angeles, CA	Baltimore, MD	5
+Burbank, CA	Charlotte, NC	5
+San Jose, CA	Ontario, CA	5
+Los Angeles, CA	Chicago, IL	5
+San Diego, CA	Denver, CO	5
+Kona, HI	Los Angeles, CA	5
+Ontario, CA	Los Angeles, CA	5
+Houston, TX	San Francisco, CA	5
+Salt Lake City, UT	San Francisco, CA	5
+Denver, CO	San Francisco, CA	5
+Columbia, SC	Sacramento, CA	5
+Albuquerque, NM	Ontario, CA	5
+Minneapolis, MN	San Francisco, CA	5
+Baltimore, MD	Los Angeles, CA	5
+Palm Springs, CA	Phoenix, AZ	5
+San Francisco, CA	San Diego, CA	5
+Milwaukee, WI	Los Angeles, CA	5
+San Juan, PR	Los Angeles, CA	5
+Albuquerque, NM	Oakland, CA	5
+Los Angeles, CA	Indianapolis, IN	6
+Kahului, HI	San Diego, CA	6
+Los Angeles, CA	Dallas/Fort Worth, TX	6
+Sacramento, CA	Louisville, KY	6
+San Francisco, CA	Portland, OR	6
+St. Louis, MO	San Francisco, CA	6
+Seattle, WA	Long Beach, CA	6
+San Francisco, CA	Washington, DC	6
+Long Beach, CA	Santa Barbara, CA	6
+San Diego, CA	Salt Lake City, UT	6
+Chicago, IL	Sacramento, CA	6
+San Jose, CA	Boise, ID	6
+Dallas/Fort Worth, TX	Oakland, CA	6
+Denver, CO	Los Angeles, CA	6
+Las Vegas, NV	Camarillo, CA	6
+Houston, TX	San Jose, CA	6
+Minneapolis, MN	San Francisco, CA	6
+San Francisco, CA	Washington, DC	6
+Denver, CO	Santa Barbara, CA	6
+Sacramento, CA	Colorado Springs, CO	6
+Los Angeles, CA	San Jose, CA	6
+San Jose, CA	Toledo, OH	6
+Seattle, WA	Burbank, CA	6
+Ontario, CA	Portland, OR	6
+San Jose, CA	Lihue, HI	6
+Denver, CO	San Francisco, CA	6
+Los Angeles, CA	Buffalo, NY	6
+Portland, OR	San Jose, CA	6
+Albuquerque, NM	Oakland, CA	6
+Los Angeles, CA	San Juan, PR	6
+Oakland, CA	Denver, CO	6
+San Diego, CA	San Antonio, TX	6
+San Francisco, CA	Lihue, HI	6
+Reno, NV	San Francisco, CA	6
+Oakland, CA	Omaha, NE	6
+Santa Ana, CA	Louisville, KY	6
+Fresno, CA	Salt Lake City, UT	6
+Los Angeles, CA	Chicago, IL	6
+Carlsbad, CA	Los Angeles, CA	6
+San Francisco, CA	Seattle, WA	6
+Ontario, CA	Louisville, KY	6
+San Francisco, CA	Cincinnati, OH	6
+Honolulu, HI	Long Beach, CA	6
+Los Angeles, CA	Dallas/Fort Worth, TX	6
+San Francisco, CA	Portland, OR	6
+Oakland, CA	Long Beach, CA	6
+Denver, CO	San Diego, CA	6
+Denver, CO	Santa Ana, CA	6
+San Francisco, CA	Palm Springs, CA	6
+Chicago, IL	San Diego, CA	6
+Burbank, CA	San Francisco, CA	6
+Seattle, WA	San Francisco, CA	6
+San Francisco, CA	Honolulu, HI	6
+Santa Ana, CA	San Francisco, CA	6
+Long Beach, CA	Pittsburgh, PA	6
+Los Angeles, CA	Portland, OR	6
+Los Angeles, CA	Chicago, IL	6
+San Jose, CA	Salt Lake City, UT	6
+Salt Lake City, UT	San Diego, CA	6
+San Diego, CA	San Jose, CA	6
+Portland, OR	San Francisco, CA	6
+Portland, OR	Los Angeles, CA	6
+Honolulu, HI	Los Angeles, CA	6
+Oakland, CA	San Diego, CA	6
+Burbank, CA	Santa Monica, CA	6
+Los Angeles, CA	Louisville, KY	6
+Arcata/Eureka, CA	Sacramento, CA	6
+Seattle, WA	San Jose, CA	6
+Minneapolis, MN	Los Angeles, CA	6
+Boise, ID	Los Angeles, CA	6
+Santa Ana, CA	Phoenix, AZ	6
+Los Angeles, CA	Houston, TX	6
+Los Angeles, CA	Kahului, HI	6
+Oakland, CA	Denver, CO	6
+Los Angeles, CA	Santa Ana, CA	6
+San Francisco, CA	Nashville, TN	6
+Sacramento, CA	Chicago, IL	6
+Las Vegas, NV	Los Angeles, CA	6
+Salt Lake City, UT	Ontario, CA	6
+Sacramento, CA	Charlotte, NC	6
+San Diego, CA	New York, NY	6
+San Diego, CA	Tucson, AZ	6
+Minneapolis, MN	Los Angeles, CA	6
+Oakland, CA	Austin, TX	6
+Anchorage, AK	Long Beach, CA	6
+Phoenix, AZ	Santa Ana, CA	6
+Los Angeles, CA	Minneapolis, MN	6
+Los Angeles, CA	Austin, TX	6
+San Francisco, CA	Las Vegas, NV	6
+Salt Lake City, UT	San Jose, CA	6
+Los Angeles, CA	San Francisco, CA	6
+Cincinnati, OH	Los Angeles, CA	6
+Santa Ana, CA	Denver, CO	6
+Denver, CO	San Jose, CA	6
+Seattle, WA	Sacramento, CA	6
+Oakland, CA	Salt Lake City, UT	6
+Washington, DC	San Francisco, CA	6
+Nashville, TN	Los Angeles, CA	6
+Los Angeles, CA	Houston, TX	6
+Burbank, CA	Des Moines, IA	6
+Fresno, CA	Denver, CO	6
+Phoenix, AZ	Oakland, CA	6
+Oakland, CA	Seattle, WA	6
+San Francisco, CA	Bend/Redmond, OR	6
+San Francisco, CA	Las Vegas, NV	6
+Denver, CO	San Diego, CA	6
+Los Angeles, CA	Colorado Springs, CO	6
+Boston, MA	San Diego, CA	6
+Denver, CO	San Diego, CA	6
+Seattle, WA	San Jose, CA	6
+Reno, NV	Oakland, CA	6
+Reno, NV	Monterey, CA	6
+Seattle, WA	Fresno, CA	6
+Austin, TX	Oakland, CA	6
+Oakland, CA	Louisville, KY	6
+Phoenix, AZ	Los Angeles, CA	6
+Kansas City, MO	Los Angeles, CA	6
+Los Angeles, CA	Dallas/Fort Worth, TX	6
+Ontario, CA	Santa Barbara, CA	6
+Kansas City, MO	San Diego, CA	6
+San Francisco, CA	Denver, CO	6
+Sacramento, CA	Atlanta, GA	6
+Houston, TX	San Jose, CA	6
+Carlsbad, CA	Burbank, CA	6
+Oakland, CA	Chicago, IL	6
+San Francisco, CA	Minneapolis, MN	6
+Phoenix, AZ	Burbank, CA	6
+Merced, CA	Las Vegas, NV	6
+Oakland, CA	New York, NY	6
+Los Angeles, CA	Baltimore, MD	6
+San Francisco, CA	Los Angeles, CA	6
+Baltimore, MD	Los Angeles, CA	6
+Minneapolis, MN	Oakland, CA	6
+Van Nuys, CA	Nashville, TN	6
+Houston, TX	Ontario, CA	6
+Grand Junction, CO	Los Angeles, CA	6
+Los Angeles, CA	Philadelphia, PA	6
+Santa Ana, CA	Omaha, NE	6
+Seattle, WA	Los Angeles, CA	6
+San Francisco, CA	San Diego, CA	6
+Sacramento, CA	Los Angeles, CA	6
+San Jose, CA	Reno, NV	6
+Portland, OR	San Jose, CA	6
+Portland, OR	San Diego, CA	6
+San Francisco, CA	Camp Springs, MD	6
+San Francisco, CA	Arcata/Eureka, CA	6
+Sacramento, CA	Denver, CO	6
+San Jose, CA	Chicago, IL	6
+Oakland, CA	Portland, OR	6
+Portland, OR	Ontario, CA	6
+Nashville, TN	San Diego, CA	6
+Seattle, WA	San Francisco, CA	6
+Santa Barbara, CA	Seattle, WA	6
+Oklahoma City, OK	Oakland, CA	6
+Phoenix, AZ	Santa Barbara, CA	6
+Nashville, TN	San Francisco, CA	6
+San Francisco, CA	Houston, TX	6
+San Francisco, CA	Phoenix, AZ	6
+Ontario, CA	San Jose, CA	6
+Sacramento, CA	Phoenix, AZ	6
+Reno, NV	San Diego, CA	6
+Bullhead City, AZ	San Jose, CA	6
+Bullhead City, AZ	Oakland, CA	6
+Atlanta, GA	Los Angeles, CA	6
+Spokane, WA	San Francisco, CA	6
+Louisville, KY	Burbank, CA	6
+San Jose, CA	Las Vegas, NV	6
+Los Angeles, CA	Las Vegas, NV	6
+Los Angeles, CA	Tampa, FL	6
+Los Angeles, CA	St. Louis, MO	6
+Crescent City, CA	San Francisco, CA	6
+Los Angeles, CA	Minneapolis, MN	6
+Dallas/Fort Worth, TX	Los Angeles, CA	6
+Salt Lake City, UT	Burbank, CA	6
+Los Angeles, CA	West Palm Beach/Palm Beach, FL	6
+Los Angeles, CA	Oakland, CA	6
+Ukiah, CA	Sacramento, CA	6
+Kona, HI	Long Beach, CA	6
+Santa Ana, CA	Sacramento, CA	6
+Los Angeles, CA	Albuquerque, NM	6
+Medford, OR	Los Angeles, CA	6
+Memphis, TN	San Francisco, CA	6
+Los Angeles, CA	Detroit, MI	6
+Oakland, CA	Columbia, SC	6
+New York, NY	San Diego, CA	6
+Oakland, CA	Seattle, WA	6
+Chicago, IL	Ontario, CA	6
+Ontario, CA	Atlanta, GA	6
+Red Wing, MN	Burbank, CA	6
+Los Angeles, CA	Savannah, GA	6
+San Jose, CA	New York, NY	6
+Phoenix, AZ	San Francisco, CA	6
+Oakland, CA	Burbank, CA	6
+Sacramento, CA	Minneapolis, MN	6
+Bakersfield, CA	Phoenix, AZ	6
+Louisville, KY	Ontario, CA	6
+San Francisco, CA	Seattle, WA	6
+Santa Ana, CA	Phoenix, AZ	6
+Burbank, CA	Grand Junction, CO	6
+Phoenix, AZ	San Jose, CA	6
+Sacramento, CA	Memphis, TN	6
+Los Angeles, CA	Las Vegas, NV	6
+Albuquerque, NM	San Francisco, CA	6
+Burbank, CA	Las Vegas, NV	6
+Bakersfield, CA	Ontario, CA	6
+Cincinnati, OH	Los Angeles, CA	6
+San Diego, CA	Phoenix, AZ	6
+San Diego, CA	Washington, DC	6
+San Francisco, CA	Colorado Springs, CO	6
+Ontario, CA	Phoenix, AZ	6
+Sacramento, CA	Denver, CO	6
+Phoenix, AZ	Los Angeles, CA	6
+Kansas City, MO	Los Angeles, CA	6
+Pittsburgh, PA	San Francisco, CA	6
+San Francisco, CA	Phoenix, AZ	6
+Oakland, CA	Bedford, MA	6
+Denver, CO	Oakland, CA	6
+San Francisco, CA	Albany, NY	6
+Newark, NJ	San Diego, CA	6
+Seattle, WA	Santa Barbara, CA	6
+Los Angeles, CA	San Jose, CA	6
+Monterey, CA	Phoenix, AZ	6
+San Diego, CA	Washington, DC	6
+Santa Barbara, CA	Los Angeles, CA	6
+Rochester, MN	Burbank, CA	6
+Boston, MA	Los Angeles, CA	6
+Burbank, CA	Van Nuys, CA	6
+Los Angeles, CA	Oakland, CA	6
+Los Angeles, CA	Kansas City, MO	6
+Newark, NJ	Santa Ana, CA	6
+Houston, TX	Burbank, CA	6
+Sacramento, CA	Des Moines, IA	6
+Palm Springs, CA	Chicago, IL	6
+San Francisco, CA	Chicago, IL	6
+Fresno, CA	Las Vegas, NV	6
+Los Angeles, CA	Wichita Falls, TX	6
+Seattle, WA	San Francisco, CA	6
+Denver, CO	Los Angeles, CA	6
+Tucson, AZ	Los Angeles, CA	6
+Kahului, HI	San Francisco, CA	6
+Louisville, KY	Sacramento, CA	6
+Portland, OR	Sacramento, CA	6
+Los Angeles, CA	Boston, MA	6
+San Francisco, CA	Minneapolis, MN	6
+Las Vegas, NV	Los Angeles, CA	6
+Sacramento, CA	Dallas/Fort Worth, TX	6
+Santa Ana, CA	Newark, NJ	6
+Columbus, OH	Los Angeles, CA	6
+Ontario, CA	Sacramento, CA	6
+Los Angeles, CA	New York, NY	6
+Salt Lake City, UT	San Francisco, CA	6
+Oakland, CA	Milwaukee, WI	6
+Oakland, CA	Seattle, WA	6
+San Diego, CA	Atlanta, GA	6
+Phoenix, AZ	Santa Ana, CA	6
+Seattle, WA	Oakland, CA	6
+Phoenix, AZ	Santa Ana, CA	6
+Santa Ana, CA	Parker, AZ	6
+Los Angeles, CA	Honolulu, HI	6
+Los Angeles, CA	Fargo, ND	6
+San Jose, CA	Phoenix, AZ	6
+Burbank, CA	San Francisco, CA	6
+Santa Rosa, CA	Las Vegas, NV	6
+Seattle, WA	San Diego, CA	6
+Los Angeles, CA	Syracuse, NY	6
+Dallas/Fort Worth, TX	Los Angeles, CA	6
+Seattle, WA	Los Angeles, CA	6
+San Jose, CA	Portland, OR	6
+Las Vegas, NV	Los Angeles, CA	6
+Seattle, WA	Los Angeles, CA	6
+Oakland, CA	Los Angeles, CA	6
+Reno, NV	Los Angeles, CA	6
+Palm Springs, CA	San Francisco, CA	6
+Houston, TX	Los Angeles, CA	6
+Reno, NV	Oakland, CA	6
+San Diego, CA	Seattle, WA	6
+San Francisco, CA	Rochester, NY	6
+Chicago, IL	San Jose, CA	6
+Santa Ana, CA	San Francisco, CA	6
+Phoenix, AZ	Oakland, CA	6
+San Francisco, CA	Milwaukee, WI	6
+Ontario, CA	Dallas/Fort Worth, TX	6
+Washington, DC	Los Angeles, CA	6
+Kansas City, MO	San Diego, CA	6
+San Francisco, CA	Las Vegas, NV	6
+Denver, CO	San Diego, CA	6
+Burbank, CA	Las Vegas, NV	6
+San Diego, CA	Los Angeles, CA	6
+San Diego, CA	Miami, FL	6
+San Diego, CA	Salt Lake City, UT	6
+Ontario, CA	Rockford, IL	6
+Seattle, WA	Sacramento, CA	6
+Redding, CA	Sacramento, CA	6
+San Jose, CA	Denver, CO	6
+Oakland, CA	Fresno, CA	6
+Charlotte, NC	Los Angeles, CA	7
+Las Vegas, NV	Burbank, CA	7
+Van Nuys, CA	Burbank, CA	7
+San Francisco, CA	Chicago, IL	7
+Kona, HI	Los Angeles, CA	7
+Reno, NV	San Diego, CA	7
+Lihue, HI	San Jose, CA	7
+San Jose, CA	Seattle, WA	7
+Seattle, WA	San Jose, CA	7
+Tin City, AK	Los Angeles, CA	7
+Newark, NJ	Santa Ana, CA	7
+Chicago, IL	Los Angeles, CA	7
+Los Angeles, CA	Orlando, FL	7
+New Orleans, LA	Los Angeles, CA	7
+Baltimore, MD	Los Angeles, CA	7
+Los Angeles, CA	San Francisco, CA	7
+San Francisco, CA	Denver, CO	7
+Newark, NJ	Los Angeles, CA	7
+Santa Barbara, CA	Denver, CO	7
+Los Angeles, CA	Santa Barbara, CA	7
+Honolulu, HI	Ontario, CA	7
+Chicago, IL	Los Angeles, CA	7
+Los Angeles, CA	Boston, MA	7
+San Francisco, CA	Los Angeles, CA	7
+San Jose, CA	Phoenix, AZ	7
+Los Angeles, CA	Houston, TX	7
+El Paso, TX	San Diego, CA	7
+Sacramento, CA	Seattle, WA	7
+Austin, TX	Los Angeles, CA	7
+Los Angeles, CA	Las Vegas, NV	7
+Los Angeles, CA	Mammoth Lakes, CA	7
+Oakland, CA	Kahului, HI	7
+Oakland, CA	Memphis, TN	7
+Denver, CO	Santa Barbara, CA	7
+Santa Barbara, CA	San Luis Obispo, CA	7
+San Francisco, CA	Seattle, WA	7
+Sacramento, CA	Boise, ID	7
+Las Vegas, NV	Los Angeles, CA	7
+New York, NY	Los Angeles, CA	7
+Los Angeles, CA	Oakland, CA	7
+Phoenix, AZ	Ontario, CA	7
+Memphis, TN	Santa Ana, CA	7
+Philadelphia, PA	San Francisco, CA	7
+Minneapolis, MN	Sacramento, CA	7
+Miami, FL	San Francisco, CA	7
+Anchorage, AK	Ontario, CA	7
+San Diego, CA	Milwaukee, WI	7
+San Francisco, CA	Atlanta, GA	7
+Oakland, CA	Santa Rosa, CA	7
+Los Angeles, CA	San Antonio, TX	7
+Los Angeles, CA	Boston, MA	7
+San Jose, CA	Phoenix, AZ	7
+Lihue, HI	Los Angeles, CA	7
+Ontario, CA	Salt Lake City, UT	7
+Miami, FL	San Francisco, CA	7
+Seattle, WA	Santa Ana, CA	7
+San Francisco, CA	Cincinnati, OH	7
+Seattle, WA	Fresno, CA	7
+Santa Barbara, CA	Phoenix, AZ	7
+Fort Lauderdale, FL	San Francisco, CA	7
+Seattle, WA	Los Angeles, CA	7
+Denver, CO	Los Angeles, CA	7
+Oakland, CA	Detroit, MI	7
+Ontario, CA	Phoenix, AZ	7
+Atlanta, GA	San Diego, CA	7
+San Diego, CA	Los Angeles, CA	7
+Los Angeles, CA	Washington, DC	7
+Phoenix, AZ	San Francisco, CA	7
+Santa Rosa, CA	Las Vegas, NV	7
+Los Angeles, CA	Chicago, IL	7
+Tucson, AZ	Los Angeles, CA	7
+Burbank, CA	Seattle, WA	7
+Los Angeles, CA	Fort Lauderdale, FL	7
+Kahului, HI	San Diego, CA	7
+Yuma, AZ	El Centro, CA	7
+Washington, DC	Sacramento, CA	7
+Austin, TX	San Jose, CA	7
+Oakland, CA	Seattle, WA	7
+Portland, OR	San Jose, CA	7
+Los Angeles, CA	Phoenix, AZ	7
+Los Angeles, CA	Baltimore, MD	7
+Phoenix, AZ	San Francisco, CA	7
+San Francisco, CA	Atlanta, GA	7
+Phoenix, AZ	San Diego, CA	7
+Honolulu, HI	San Francisco, CA	7
+Phoenix, AZ	Santa Ana, CA	7
+Long Beach, CA	Portland, OR	7
+San Diego, CA	Washington, DC	7
+San Diego, CA	Atlanta, GA	7
+Santa Rosa, CA	Los Angeles, CA	7
+San Francisco, CA	Las Vegas, NV	7
+Atlanta, GA	San Francisco, CA	7
+Los Angeles, CA	San Juan, PR	7
+Des Moines, IA	Oakland, CA	7
+Oakland, CA	Las Vegas, NV	7
+Oakland, CA	San Francisco, CA	7
+Las Vegas, NV	San Francisco, CA	7
+Los Angeles, CA	Colorado Springs, CO	7
+Los Angeles, CA	Portland, OR	7
+San Francisco, CA	Cleveland, OH	7
+San Francisco, CA	Van Nuys, CA	7
+Los Angeles, CA	Nashville, TN	7
+San Francisco, CA	Portland, OR	7
+Anchorage, AK	Los Angeles, CA	7
+Honolulu, HI	Sacramento, CA	7
+Albuquerque, NM	San Diego, CA	7
+Los Angeles, CA	Atlanta, GA	7
+Denver, CO	Sacramento, CA	7
+Provo, UT	Burbank, CA	7
+Oakland, CA	Long Beach, CA	7
+Denver, CO	San Diego, CA	7
+Philadelphia, PA	Oakland, CA	7
+Ontario, CA	Portland, OR	7
+Hilo, HI	Los Angeles, CA	7
+Los Angeles, CA	Newark, NJ	7
+Los Angeles, CA	Charlotte, NC	7
+Los Angeles, CA	Salt Lake City, UT	7
+Los Angeles, CA	Washington, DC	7
+Monterey, CA	Phoenix, AZ	7
+Portland, OR	Ontario, CA	7
+San Francisco, CA	Portland, OR	7
+Los Angeles, CA	Houston, TX	7
+San Jose, CA	Monterey, CA	7
+Palm Springs, CA	Las Vegas, NV	7
+San Diego, CA	Milwaukee, WI	7
+San Francisco, CA	Dallas/Fort Worth, TX	7
+San Francisco, CA	Boston, MA	7
+Salt Lake City, UT	Los Angeles, CA	7
+Chicago, IL	Los Angeles, CA	7
+Missoula, MT	San Francisco, CA	7
+Dallas/Fort Worth, TX	Oakland, CA	7
+Wichita, KS	Los Angeles, CA	7
+Fort Lauderdale, FL	Los Angeles, CA	7
+Phoenix, AZ	Los Angeles, CA	7
+Ontario, CA	Las Vegas, NV	7
+San Francisco, CA	Los Angeles, CA	7
+Santa Rosa, CA	Seattle, WA	7
+San Jose, CA	Honolulu, HI	7
+Los Angeles, CA	Salt Lake City, UT	7
+Indianapolis, IN	San Francisco, CA	7
+Philadelphia, PA	San Francisco, CA	7
+San Luis Obispo, CA	Los Angeles, CA	7
+Long Beach, CA	Salt Lake City, UT	7
+Burbank, CA	New Orleans, LA	7
+Burbank, CA	Portland, OR	7
+Cleveland, OH	San Francisco, CA	7
+San Francisco, CA	Salt Lake City, UT	7
+Memphis, TN	Oakland, CA	7
+Sacramento, CA	Washington, DC	7
+Honolulu, HI	Oakland, CA	7
+Dallas/Fort Worth, TX	Los Angeles, CA	7
+North Bend/Coos Bay, OR	San Francisco, CA	7
+Oakland, CA	Kansas City, MO	7
+Phoenix, AZ	Fresno, CA	7
+Santa Ana, CA	Denver, CO	7
+San Jose, CA	Los Angeles, CA	7
+Los Angeles, CA	Honolulu, HI	7
+San Diego, CA	Sacramento, CA	7
+Anchorage, AK	Los Angeles, CA	7
+Ontario, CA	Oakland, CA	7
+Santa Barbara, CA	Minneapolis/St. Paul, MN	7
+Philadelphia, PA	San Francisco, CA	7
+Klamath Falls, OR	Fresno, CA	7
+Monterey, CA	San Francisco, CA	7
+San Diego, CA	Oakland, CA	7
+Los Angeles, CA	Lihue, HI	7
+Monterey, CA	Grand Junction, CO	7
+Dallas/Fort Worth, TX	Los Angeles, CA	7
+Los Angeles, CA	Tucson, AZ	7
+Louisville, KY	Ontario, CA	7
+San Francisco, CA	San Diego, CA	7
+Denver, CO	Burbank, CA	7
+Santa Ana, CA	Memphis, TN	7
+Grand Junction, CO	Los Angeles, CA	7
+Sacramento, CA	Reno, NV	7
+San Francisco, CA	Santa Barbara, CA	7
+Los Angeles, CA	Salt Lake City, UT	7
+Ontario, CA	Las Vegas, NV	7
+San Francisco, CA	Pasco/Kennewick/Richland, WA	7
+Washington, DC	San Francisco, CA	7
+San Francisco, CA	Redding, CA	7
+Baltimore, MD	San Francisco, CA	7
+Portland, OR	San Francisco, CA	7
+Los Angeles, CA	St. George, UT	7
+Kona, HI	San Francisco, CA	7
+Phoenix, AZ	Burbank, CA	7
+Minneapolis, MN	Los Angeles, CA	7
+Memphis, TN	Sacramento, CA	7
+Denver, CO	Fresno, CA	7
+Houston, TX	Santa Ana, CA	7
+Bellingham, WA	Palm Springs, CA	7
+Los Angeles, CA	Kansas City, MO	7
+Los Angeles, CA	Las Vegas, NV	7
+San Diego, CA	Houston, TX	7
+Oakland, CA	Newark, NJ	7
+Los Angeles, CA	San Francisco, CA	7
+San Diego, CA	Phoenix, AZ	7
+Des Moines, IA	Oakland, CA	7
+Los Angeles, CA	Seattle, WA	7
+Omaha, NE	Oakland, CA	7
+Los Angeles, CA	Las Vegas, NV	7
+Houston, TX	San Francisco, CA	7
+Denver, CO	Los Angeles, CA	7
+Monterey, CA	San Francisco, CA	7
+San Francisco, CA	Bend/Redmond, OR	7
+Santa Ana, CA	Las Vegas, NV	7
+Sacramento, CA	Reno, NV	7
+Memphis, TN	Ontario, CA	7
+Burbank, CA	Santa Ana, CA	7
+Denver, CO	San Diego, CA	7
+San Francisco, CA	Reno, NV	7
+Jackson, WY	Los Angeles, CA	7
+San Diego, CA	Denver, CO	7
+Burbank, CA	Portland, OR	7
+Minneapolis/St. Paul, MN	Santa Barbara, CA	7
+San Francisco, CA	Las Vegas, NV	7
+Santa Barbara, CA	Denver, CO	7
+San Diego, CA	Los Angeles, CA	7
+Cincinnati, OH	Los Angeles, CA	7
+Portland, OR	Sacramento, CA	7
+Los Angeles, CA	Bozeman, MT	7
+Long Beach, CA	Phoenix, AZ	7
+San Francisco, CA	Kahului, HI	7
+Ontario, CA	Phoenix, AZ	7
+Portland, OR	San Francisco, CA	7
+Seattle, WA	Sacramento, CA	7
+Medford, OR	Crescent City, CA	7
+San Francisco, CA	Burbank, CA	7
+Ontario, CA	Sacramento, CA	7
+Philadelphia, PA	San Diego, CA	7
+Detroit, MI	Los Angeles, CA	7
+San Jose, CA	Seattle, WA	7
+Los Angeles, CA	St. Louis, MO	7
+Houston, TX	Ontario, CA	7
+Los Angeles, CA	Pittsburgh, PA	7
+Cincinnati, OH	San Francisco, CA	7
+Los Angeles, CA	Indianapolis, IN	7
+Boise, ID	San Francisco, CA	7
+Ontario, CA	Oakland, CA	7
+San Francisco, CA	Fresno, CA	7
+Boise, ID	Los Angeles, CA	7
+Bakersfield, CA	Denver, CO	7
+Seattle, WA	Santa Barbara, CA	7
+New Orleans, LA	Burbank, CA	7
+Los Angeles, CA	San Antonio, TX	7
+Fresno, CA	Dallas/Fort Worth, TX	7
+Phoenix, AZ	Los Angeles, CA	7
+Phoenix, AZ	San Francisco, CA	7
+Denver, CO	Burbank, CA	7
+Salt Lake City, UT	San Jose, CA	7
+Los Angeles, CA	Minneapolis, MN	7
+Seattle, WA	San Francisco, CA	7
+Los Angeles, CA	Kansas City, MO	7
+San Francisco, CA	Las Vegas, NV	7
+Oakland, CA	Ontario, CA	7
+Bullhead City, AZ	Modesto, CA	7
+San Francisco, CA	Reno, NV	7
+Portland, OR	San Francisco, CA	7
+San Diego, CA	San Francisco, CA	7
+Minneapolis, MN	San Francisco, CA	7
+Chicago, IL	Santa Ana, CA	7
+Salt Lake City, UT	Santa Ana, CA	7
+Oakland, CA	Memphis, TN	7
+Reno, NV	San Francisco, CA	7
+Oakland, CA	Seattle, WA	7
+San Francisco, CA	Washington, DC	7
+Los Angeles, CA	Las Vegas, NV	7
+Ontario, CA	San Luis Obispo, CA	7
+San Diego, CA	Indianapolis, IN	7
+Cleveland, OH	San Jose, CA	8
+San Diego, CA	Kansas City, MO	8
+St. Louis, MO	San Diego, CA	8
+Salina, KS	Burbank, CA	8
+Louisville, KY	Long Beach, CA	8
+Reno, NV	Oakland, CA	8
+Santa Barbara, CA	Seattle, WA	8
+Dallas/Fort Worth, TX	Oakland, CA	8
+Ontario, CA	Denver, CO	8
+El Centro, CA	Los Angeles, CA	8
+San Diego, CA	Denver, CO	8
+Ontario, CA	Bakersfield, CA	8
+Chicago, IL	San Diego, CA	8
+Los Angeles, CA	Monterey, CA	8
+Sacramento, CA	Harrisburg, PA	8
+Los Angeles, CA	New York, NY	8
+Denver, CO	Sacramento, CA	8
+Dallas/Fort Worth, TX	San Diego, CA	8
+St. Louis, MO	Los Angeles, CA	8
+Sacramento, CA	Los Angeles, CA	8
+Santa Ana, CA	Oakland, CA	8
+Los Angeles, CA	Wichita, KS	8
+San Jose, CA	Louisville, KY	8
+New Orleans, LA	Los Angeles, CA	8
+Salt Lake City, UT	San Francisco, CA	8
+Seattle, WA	San Jose, CA	8
+Denver, CO	Ontario, CA	8
+San Francisco, CA	Ontario, CA	8
+Reno, NV	Oakland, CA	8
+San Francisco, CA	Seattle, WA	8
+Los Angeles, CA	Houston, TX	8
+San Diego, CA	Phoenix, AZ	8
+Seattle, WA	Ontario, CA	8
+San Jose, CA	Denver, CO	8
+Bakersfield, CA	Phoenix, AZ	8
+Burbank, CA	Oakland, CA	8
+Detroit, MI	San Diego, CA	8
+Ontario, CA	Salt Lake City, UT	8
+San Jose, CA	Denver, CO	8
+San Francisco, CA	Houston, TX	8
+Atlanta, GA	San Diego, CA	8
+Portland, OR	Los Angeles, CA	8
+Oakland, CA	Denver, CO	8
+St. Louis, MO	San Diego, CA	8
+Tulsa, OK	Los Angeles, CA	8
+Honolulu, HI	Los Angeles, CA	8
+San Diego, CA	Phoenix, AZ	8
+Santa Ana, CA	Salt Lake City, UT	8
+San Diego, CA	Houston, TX	8
+San Diego, CA	Houston, TX	8
+Sacramento, CA	Denver, CO	8
+San Jose, CA	Sacramento, CA	8
+Charlotte, NC	San Francisco, CA	8
+Minneapolis, MN	San Francisco, CA	8
+Ontario, CA	Dallas/Fort Worth, TX	8
+Santa Barbara, CA	San Francisco, CA	8
+Houston, TX	San Francisco, CA	8
+Santa Ana, CA	Chicago, IL	8
+Ontario, CA	Atlanta, GA	8
+Atlanta, GA	San Diego, CA	8
+Memphis, TN	Sacramento, CA	8
+Sacramento, CA	Salt Lake City, UT	8
+Las Vegas, NV	Fresno, CA	8
+Oakland, CA	Las Vegas, NV	8
+Phoenix, AZ	Ontario, CA	8
+Chicago, IL	Los Angeles, CA	8
+Seattle, WA	San Diego, CA	8
+Denver, CO	Oakland, CA	8
+Burbank, CA	Phoenix, AZ	8
+Los Angeles, CA	Miami, FL	8
+San Diego, CA	San Jose, CA	8
+Los Angeles, CA	Newark, NJ	8
+Ontario, CA	Phoenix, AZ	8
+Oakland, CA	Memphis, TN	8
+Los Angeles, CA	Minneapolis, MN	8
+Newark, NJ	San Francisco, CA	8
+Toledo, OH	Los Angeles, CA	8
+Kansas City, MO	Oakland, CA	8
+Seattle, WA	Los Angeles, CA	8
+Oakland, CA	Newark, NJ	8
+Seattle, WA	Fresno, CA	8
+Los Angeles, CA	Seattle, WA	8
+Wichita, KS	Los Angeles, CA	8
+Oakland, CA	Long Beach, CA	8
+Burbank, CA	San Francisco, CA	8
+San Diego, CA	New York, NY	8
+Minneapolis, MN	Los Angeles, CA	8
+Ontario, CA	Anchorage, AK	8
+Ontario, CA	Honolulu, HI	8
+Philadelphia, PA	San Francisco, CA	8
+Burbank, CA	Pasco/Kennewick/Richland, WA	8
+Monterey, CA	Las Vegas, NV	8
+San Francisco, CA	Washington, DC	8
+Newark, NJ	Los Angeles, CA	8
+San Francisco, CA	Detroit, MI	8
+Atlanta, GA	San Francisco, CA	8
+San Francisco, CA	Phoenix, AZ	8
+San Francisco, CA	Denver, CO	8
+Seattle, WA	Sacramento, CA	8
+Memphis, TN	San Francisco, CA	8
+Los Angeles, CA	Medford, OR	8
+Los Angeles, CA	Billings, MT	8
+Louisville, KY	Santa Ana, CA	8
+Phoenix, AZ	San Francisco, CA	8
+San Diego, CA	El Paso, TX	8
+San Diego, CA	Reno, NV	8
+Sacramento, CA	Seattle, WA	8
+Ontario, CA	Louisville, KY	8
+Anchorage, AK	Los Angeles, CA	8
+Bullhead City, AZ	Long Beach, CA	8
+Colorado Springs, CO	San Francisco, CA	8
+Las Vegas, NV	Burbank, CA	8
+Bozeman, MT	Los Angeles, CA	8
+Denver, CO	Burbank, CA	8
+Los Angeles, CA	San Francisco, CA	8
+Los Angeles, CA	Las Vegas, NV	8
+Los Angeles, CA	Austin, TX	8
+San Francisco, CA	Reno, NV	8
+St. Louis, MO	Los Angeles, CA	8
+Los Angeles, CA	Atlanta, GA	8
+Los Angeles, CA	Reno, NV	8
+San Luis Obispo, CA	Phoenix, AZ	8
+San Diego, CA	Dallas/Fort Worth, TX	8
+Crescent City, CA	Sacramento, CA	8
+San Francisco, CA	Seattle, WA	8
+San Francisco, CA	Washington, DC	8
+Los Angeles, CA	Denver, CO	8
+Denver, CO	Fresno, CA	8
+Fresno, CA	Denver, CO	8
+San Diego, CA	New York, NY	8
+Salt Lake City, UT	Sacramento, CA	8
+Los Angeles, CA	Albuquerque, NM	8
+Milwaukee, WI	Los Angeles, CA	8
+San Francisco, CA	Boston, MA	8
+San Diego, CA	San Antonio, TX	8
+Fort Lauderdale, FL	San Francisco, CA	8
+Burbank, CA	Phoenix, AZ	8
+Los Angeles, CA	Indianapolis, IN	8
+Atlanta, GA	Sacramento, CA	8
+Seattle, WA	Sacramento, CA	8
+Denver, CO	San Diego, CA	8
+San Diego, CA	Milwaukee, WI	8
+Dallas, TX	Oakland, CA	8
+San Jose, CA	Salt Lake City, UT	8
+Houston, TX	Ontario, CA	8
+Hilo, HI	San Francisco, CA	8
+San Francisco, CA	Idaho Falls, ID	8
+Los Angeles, CA	Memphis, TN	8
+Washington, DC	San Francisco, CA	8
+Santa Ana, CA	Minneapolis, MN	8
+San Francisco, CA	Denver, CO	8
+Los Angeles, CA	Denver, CO	8
+Los Angeles, CA	Chicago, IL	8
+Los Angeles, CA	Chicago, IL	8
+Portland, OR	Fresno, CA	8
+Washington, DC	San Francisco, CA	8
+Atlanta, GA	Los Angeles, CA	8
+Sun Valley/Hailey/Ketchum, ID	Burbank, CA	8
+Santa Barbara, CA	Fargo, ND	8
+Dallas/Fort Worth, TX	San Diego, CA	8
+Ontario, CA	Memphis, TN	8
+San Francisco, CA	Dallas/Fort Worth, TX	8
+San Francisco, CA	Fort Lauderdale, FL	8
+Los Angeles, CA	Newark, NJ	8
+New York, NY	San Diego, CA	8
+Oakland, CA	Monterey, CA	8
+Long Beach, CA	Louisville, KY	8
+Phoenix, AZ	San Jose, CA	8
+Burbank, CA	Telluride, CO	8
+Seattle, WA	Oakland, CA	8
+Los Angeles, CA	Hilo, HI	8
+Honolulu, HI	Los Angeles, CA	8
+Bakersfield, CA	Denver, CO	8
+San Francisco, CA	Chicago, IL	8
+Oakland, CA	Salt Lake City, UT	8
+Los Angeles, CA	San Francisco, CA	8
+San Francisco, CA	Pittsburgh, PA	8
+Phoenix, AZ	San Francisco, CA	8
+Burbank, CA	Sun Valley/Hailey/Ketchum, ID	8
+Salt Lake City, UT	Sacramento, CA	8
+Houston, TX	Santa Ana, CA	8
+San Francisco, CA	Salt Lake City, UT	8
+Las Vegas, NV	Burbank, CA	8
+Detroit, MI	San Francisco, CA	8
+Oakland, CA	Austin, TX	8
+Los Angeles, CA	Sacramento, CA	8
+San Francisco, CA	New York, NY	8
+Los Angeles, CA	Boise, ID	8
+Sacramento, CA	Detroit, MI	8
+Louisville, KY	Ontario, CA	8
+Las Vegas, NV	Sacramento, CA	8
+Denver, CO	Los Angeles, CA	8
+Las Vegas, NV	Santa Barbara, CA	8
+Dallas/Fort Worth, TX	Ontario, CA	8
+Burbank, CA	Santa Barbara, CA	8
+Salt Lake City, UT	San Jose, CA	8
+Salt Lake City, UT	Los Angeles, CA	8
+Oakland, CA	Denver, CO	8
+San Jose, CA	Burbank, CA	8
+Denver, CO	Sacramento, CA	8
+Honolulu, HI	Los Angeles, CA	8
+Los Angeles, CA	Honolulu, HI	8
+Los Angeles, CA	Des Moines, IA	8
+Chicago, IL	Los Angeles, CA	8
+Las Vegas, NV	San Francisco, CA	8
+Austin, TX	Los Angeles, CA	8
+Los Angeles, CA	Denver, CO	8
+Sacramento, CA	Charlotte, NC	8
+Oakland, CA	Albuquerque, NM	8
+Salt Lake City, UT	San Jose, CA	8
+Los Angeles, CA	Chicago, IL	8
+Los Angeles, CA	Kahului, HI	8
+Houston, TX	San Francisco, CA	8
+Los Angeles, CA	Salt Lake City, UT	8
+Sacramento, CA	Portland, OR	8
+Washington, DC	San Francisco, CA	8
+Denver, CO	Santa Ana, CA	8
+San Francisco, CA	Philadelphia, PA	8
+San Francisco, CA	Atlanta, GA	8
+Columbia, SC	Sacramento, CA	8
+Reno, NV	San Francisco, CA	8
+San Francisco, CA	Los Angeles, CA	8
+Reno, NV	Ontario, CA	8
+Albuquerque, NM	San Diego, CA	8
+Denver, CO	Sacramento, CA	8
+Burbank, CA	Las Vegas, NV	8
+Phoenix, AZ	Oakland, CA	8
+Santa Ana, CA	Birmingham, AL	8
+Burbank, CA	Richmond, VA	8
+Chicago, IL	Sacramento, CA	8
+Sacramento, CA	Phoenix, AZ	8
+Dallas/Fort Worth, TX	Los Angeles, CA	8
+Los Angeles, CA	Boston, MA	8
+Washington, DC	San Francisco, CA	8
+Tacoma, WA	Victorville, CA	8
+San Jose, CA	Broomfield, CO	8
+Los Angeles, CA	Portland, OR	8
+Visalia, CA	Merced, CA	8
+San Diego, CA	Louisville, KY	8
+Boise, ID	San Jose, CA	8
+Dallas/Fort Worth, TX	San Francisco, CA	8
+Atlanta, GA	Sacramento, CA	8
+San Francisco, CA	Los Angeles, CA	8
+Phoenix, AZ	Santa Ana, CA	8
+Kona, HI	Burbank, CA	8
+Washington, DC	Los Angeles, CA	8
+Burbank, CA	Salt Lake City, UT	8
+San Francisco, CA	Salt Lake City, UT	8
+Kalispell, MT	Burbank, CA	8
+Oakland, CA	Houston, TX	8
+Las Vegas, NV	Burbank, CA	8
+Houston, TX	Los Angeles, CA	8
+Denver, CO	San Francisco, CA	8
+Los Angeles, CA	Phoenix, AZ	8
+Medford, OR	Los Angeles, CA	8
+Charlotte, NC	San Francisco, CA	8
+Newark, NJ	San Francisco, CA	8
+San Francisco, CA	Pasco/Kennewick/Richland, WA	8
+Oakland, CA	Denver, CO	8
+Los Angeles, CA	St. Louis, MO	8
+Portland, OR	Sacramento, CA	8
+Oakland, CA	Boise, ID	8
+Salt Lake City, UT	Sacramento, CA	8
+Los Angeles, CA	Seattle, WA	8
+Los Angeles, CA	Raleigh/Durham, NC	8
+Lihue, HI	San Jose, CA	8
+Los Angeles, CA	Miami, FL	8
+Fresno, CA	San Francisco, CA	8
+San Antonio, TX	San Francisco, CA	8
+Stockton, CA	Las Vegas, NV	8
+Las Vegas, NV	Ontario, CA	8
+Los Angeles, CA	Minneapolis, MN	8
+Washington, DC	Los Angeles, CA	8
+Las Vegas, NV	Oakland, CA	8
+San Diego, CA	Seattle, WA	8
+San Francisco, CA	Atlanta, GA	8
+Austin, TX	San Diego, CA	8
+Fresno, CA	Seattle, WA	8
+Dallas/Fort Worth, TX	San Jose, CA	8
+Chicago, IL	Los Angeles, CA	8
+San Diego, CA	Sacramento, CA	8
+Philadelphia, PA	San Diego, CA	8
+Jackson, WY	Los Angeles, CA	8
+Seattle, WA	Oakland, CA	8
+San Francisco, CA	Ontario, CA	8
+Las Vegas, NV	Stockton, CA	8
+Seattle, WA	Los Angeles, CA	8
+Phoenix, AZ	Santa Ana, CA	8
+Oakland, CA	Kona, HI	8
+Los Angeles, CA	Kansas City, MO	8
+Los Angeles, CA	Anchorage, AK	8
+Denver, CO	Los Angeles, CA	8
+Dallas/Fort Worth, TX	Los Angeles, CA	8
+Los Angeles, CA	Kansas City, MO	8
+Miami, FL	San Francisco, CA	8
+San Francisco, CA	San Diego, CA	8
+Salt Lake City, UT	Los Angeles, CA	8
+Miami, FL	Los Angeles, CA	8
+Los Angeles, CA	Salt Lake City, UT	8
+Las Vegas, NV	San Francisco, CA	8
+Honolulu, HI	Los Angeles, CA	8
+Ontario, CA	San Jose, CA	8
+San Francisco, CA	Denver, CO	8
+San Francisco, CA	Washington, DC	8
+Ontario, CA	Dallas/Fort Worth, TX	8
+Los Angeles, CA	San Jose, CA	8
+Los Angeles, CA	New York, NY	8
+San Jose, CA	Los Angeles, CA	8
+Los Angeles, CA	Seattle, WA	8
+San Francisco, CA	Eugene, OR	8
+Tucson, AZ	Los Angeles, CA	8
+Los Angeles, CA	Burbank, CA	8
+Santa Ana, CA	Allentown/Bethlehem/Easton, PA	8
+Aspen, CO	Los Angeles, CA	8
+Tucson, AZ	San Diego, CA	8
+Fresno, CA	Louisville, KY	8
+Santa Rosa, CA	Portland, OR	8
+Phoenix, AZ	Ontario, CA	8
+Sacramento, CA	Chicago, IL	8
+Santa Barbara, CA	San Luis Obispo, CA	8
+San Francisco, CA	Minneapolis, MN	8
+Chicago, IL	Los Angeles, CA	8
+Sacramento, CA	Ontario, CA	9
+Chicago, IL	Santa Ana, CA	9
+San Jose, CA	Cincinnati, OH	9
+Salt Lake City, UT	Oakland, CA	9
+San Diego, CA	Reno, NV	9
+Portland, OR	Oakland, CA	9
+Honolulu, HI	Los Angeles, CA	9
+San Francisco, CA	Boston, MA	9
+Sacramento, CA	Kahului, HI	9
+Crescent City, CA	Arcata/Eureka, CA	9
+Los Angeles, CA	San Francisco, CA	9
+San Francisco, CA	Dallas/Fort Worth, TX	9
+Los Angeles, CA	Seattle, WA	9
+Denver, CO	Oakland, CA	9
+Sacramento, CA	Los Angeles, CA	9
+Santa Ana, CA	Newark, NJ	9
+Los Angeles, CA	Colorado Springs, CO	9
+Philadelphia, PA	San Francisco, CA	9
+Arcata/Eureka, CA	Redding, CA	9
+Phoenix, AZ	Santa Ana, CA	9
+Teterboro, NJ	Burbank, CA	9
+San Francisco, CA	Seattle, WA	9
+Los Angeles, CA	Phoenix, AZ	9
+Los Angeles, CA	Albuquerque, NM	9
+Phoenix, AZ	Los Angeles, CA	9
+Oakland, CA	Salt Lake City, UT	9
+Los Angeles, CA	San Luis Obispo, CA	9
+Phoenix, AZ	San Francisco, CA	9
+San Francisco, CA	Portland, OR	9
+Ontario, CA	Honolulu, HI	9
+Dallas/Fort Worth, TX	Oakland, CA	9
+Kahului, HI	Los Angeles, CA	9
+Minneapolis/St. Paul, MN	Santa Barbara, CA	9
+Ontario, CA	Santa Ana, CA	9
+San Francisco, CA	Dallas/Fort Worth, TX	9
+Santa Ana, CA	Portland, OR	9
+San Francisco, CA	New York, NY	9
+Los Angeles, CA	Baltimore, MD	9
+San Francisco, CA	Modesto, CA	9
+San Francisco, CA	Chico, CA	9
+Denver, CO	Oakland, CA	9
+San Jose, CA	Salt Lake City, UT	9
+San Jose, CA	Denver, CO	9
+Santa Ana, CA	Dallas/Fort Worth, TX	9
+Los Angeles, CA	Carlsbad, CA	9
+San Francisco, CA	Idaho Falls, ID	9
+Burbank, CA	Fort Myers, FL	9
+Chicago, IL	Oakland, CA	9
+Sacramento, CA	Ontario, CA	9
+Minneapolis, MN	Santa Ana, CA	9
+Phoenix, AZ	Ontario, CA	9
+Austin, TX	San Jose, CA	9
+Oakland, CA	Louisville, KY	9
+Los Angeles, CA	Memphis, TN	9
+Ontario, CA	Philadelphia, PA	9
+Ontario, CA	Memphis, TN	9
+Los Angeles, CA	Chicago, IL	9
+Burbank, CA	San Jose, CA	9
+El Paso, TX	Los Angeles, CA	9
+Phoenix, AZ	Santa Ana, CA	9
+Oakland, CA	Portland, OR	9
+Seattle, WA	Burbank, CA	9
+Santa Ana, CA	Phoenix, AZ	9
+Columbus, OH	Los Angeles, CA	9
+Las Vegas, NV	San Francisco, CA	9
+Burbank, CA	Ontario, CA	9
+Memphis, TN	Ontario, CA	9
+San Diego, CA	Phoenix, AZ	9
+Santa Barbara, CA	Phoenix, AZ	9
+Los Angeles, CA	Phoenix, AZ	9
+San Francisco, CA	Orlando, FL	9
+Los Angeles, CA	Fort Lauderdale, FL	9
+Tucson, AZ	Los Angeles, CA	9
+Cleveland, OH	Los Angeles, CA	9
+Los Angeles, CA	Cleveland, OH	9
+Santa Ana, CA	Denver, CO	9
+Washington, DC	San Diego, CA	9
+Sacramento, CA	Atlanta, GA	9
+Phoenix, AZ	San Jose, CA	9
+New York, NY	San Francisco, CA	9
+Indianapolis, IN	Sacramento, CA	9
+Chicago, IL	San Francisco, CA	9
+Los Angeles, CA	New York, NY	9
+Albuquerque, NM	San Francisco, CA	9
+Phoenix, AZ	Burbank, CA	9
+San Francisco, CA	Houston, TX	9
+Oakland, CA	Denver, CO	9
+Denver, CO	Oakland, CA	9
+Memphis, TN	Ontario, CA	9
+Philadelphia, PA	San Diego, CA	9
+Santa Maria, CA	Minneapolis, MN	9
+New York, NY	Burbank, CA	9
+Portland, OR	San Francisco, CA	9
+Monterey, CA	Oakland, CA	9
+San Francisco, CA	Albuquerque, NM	9
+Cleveland, OH	San Francisco, CA	9
+Oakland, CA	Memphis, TN	9
+Phoenix, AZ	San Diego, CA	9
+Salt Lake City, UT	Burbank, CA	9
+Tucson, AZ	Los Angeles, CA	9
+Indianapolis, IN	Ontario, CA	9
+San Francisco, CA	Los Angeles, CA	9
+Denver, CO	San Diego, CA	9
+Atlanta, GA	Santa Ana, CA	9
+San Francisco, CA	Eugene, OR	9
+Medford, OR	Los Angeles, CA	9
+Los Angeles, CA	St. Louis, MO	9
+Los Angeles, CA	Boise, ID	9
+Sacramento, CA	Long Beach, CA	9
+San Francisco, CA	Portland, OR	9
+Denver, CO	Palm Springs, CA	9
+Los Angeles, CA	Oakland, CA	9
+Santa Monica, CA	Oakland, CA	9
+San Jose, CA	Los Angeles, CA	9
+San Diego, CA	Albuquerque, NM	9
+Los Angeles, CA	Phoenix, AZ	9
+Oakland, CA	Los Angeles, CA	9
+Newark, NJ	San Diego, CA	9
+Oakland, CA	Denver, CO	9
+Los Angeles, CA	Reno, NV	9
+Los Angeles, CA	Santa Maria, CA	9
+Oakland, CA	Las Vegas, NV	9
+Teterboro, NJ	Santa Ana, CA	9
+Reno, NV	Oakland, CA	9
+Los Angeles, CA	Las Vegas, NV	9
+Santa Ana, CA	Phoenix, AZ	9
+San Francisco, CA	Los Angeles, CA	9
+Sacramento, CA	Boise, ID	9
+Las Vegas, NV	Los Angeles, CA	9
+Missoula, MT	Burbank, CA	9
+Las Vegas, NV	San Francisco, CA	9
+San Francisco, CA	Los Angeles, CA	9
+Oakland, CA	Oakland, CA	9
+Salt Lake City, UT	San Jose, CA	9
+San Jose, CA	Chicago, IL	9
+Oakland, CA	Los Angeles, CA	9
+San Antonio, TX	Los Angeles, CA	9
+Los Angeles, CA	Atlanta, GA	9
+Sacramento, CA	Denver, CO	9
+Charlotte, NC	San Francisco, CA	9
+Oakland, CA	Reno, NV	9
+Bakersfield, CA	Houston, TX	9
+Salt Lake City, UT	Los Angeles, CA	9
+San Francisco, CA	San Diego, CA	9
+Chicago, IL	Los Angeles, CA	9
+Denver, CO	Sacramento, CA	9
+Miami, FL	Oakland, CA	9
+Seattle, WA	Burbank, CA	9
+Austin, TX	Los Angeles, CA	9
+Minneapolis, MN	San Francisco, CA	9
+Newark, NJ	San Francisco, CA	9
+San Francisco, CA	Palm Springs, CA	9
+Santa Ana, CA	Atlanta, GA	9
+San Diego, CA	El Paso, TX	9
+Los Angeles, CA	Fresno, CA	9
+Detroit, MI	Los Angeles, CA	9
+Denver, CO	Santa Barbara, CA	9
+San Diego, CA	San Francisco, CA	9
+San Francisco, CA	Salt Lake City, UT	9
+Reno, NV	San Jose, CA	9
+Lihue, HI	Los Angeles, CA	9
+San Francisco, CA	Las Vegas, NV	9
+Los Angeles, CA	Atlanta, GA	9
+Medford, OR	San Francisco, CA	9
+Los Angeles, CA	Boston, MA	9
+Ontario, CA	Oakland, CA	9
+San Diego, CA	Sacramento, CA	9
+Palm Springs, CA	San Francisco, CA	9
+St. Louis, MO	Oakland, CA	9
+Santa Maria, CA	Los Angeles, CA	9
+Santa Barbara, CA	Denver, CO	9
+Chicago, IL	San Diego, CA	9
+Sacramento, CA	Des Moines, IA	9
+Los Angeles, CA	Detroit, MI	9
+Portland, OR	San Francisco, CA	9
+San Diego, CA	Cincinnati, OH	9
+Long Beach, CA	New York, NY	9
+Los Angeles, CA	Dallas/Fort Worth, TX	9
+San Jose, CA	Seattle, WA	9
+Oakland, CA	Honolulu, HI	9
+San Francisco, CA	North Bend/Coos Bay, OR	9
+Kahului, HI	San Jose, CA	9
+Burbank, CA	Monterey, CA	9
+Oakland, CA	Salt Lake City, UT	9
+San Diego, CA	Midland/Odessa, TX	9
+Salt Lake City, UT	Fresno, CA	9
+Los Angeles, CA	Chicago, IL	9
+Sacramento, CA	Houston, TX	9
+San Francisco, CA	Phoenix, AZ	9
+Phoenix, AZ	Ontario, CA	9
+Sacramento, CA	Eureka, CA	9
+San Francisco, CA	New York, NY	9
+Los Angeles, CA	Oklahoma City, OK	9
+Ontario, CA	Honolulu, HI	9
+San Diego, CA	San Francisco, CA	9
+Sacramento, CA	San Diego, CA	9
+Oakland, CA	Newark, NJ	9
+Washington, DC	San Francisco, CA	9
+Louisville, KY	Oakland, CA	9
+Santa Rosa, CA	Las Vegas, NV	9
+Cherry Point, NC	Riverside, CA	9
+San Francisco, CA	San Diego, CA	9
+Des Moines, IA	Burbank, CA	9
+Salt Lake City, UT	Oakland, CA	9
+Long Beach, CA	Seattle, WA	9
+Palm Springs, CA	San Francisco, CA	9
+San Diego, CA	Seattle, WA	9
+Ontario, CA	Oakland, CA	9
+San Francisco, CA	Chicago, IL	9
+Los Angeles, CA	Las Vegas, NV	9
+Sacramento, CA	Santa Ana, CA	9
+Lihue, HI	San Jose, CA	9
+Los Angeles, CA	Fort Lauderdale, FL	9
+Ontario, CA	Oakland, CA	9
+Los Angeles, CA	Dallas/Fort Worth, TX	9
+Salt Lake City, UT	Los Angeles, CA	9
+El Paso, TX	San Jose, CA	9
+Ontario, CA	Salt Lake City, UT	9
+Los Angeles, CA	Orlando, FL	9
+Santa Ana, CA	Houston, TX	9
+Oklahoma City, OK	Los Angeles, CA	9
+Los Angeles, CA	Boise, ID	9
+Teterboro, NJ	Carlsbad, CA	9
+New York, NY	San Francisco, CA	9
+Detroit, MI	San Diego, CA	9
+Dallas/Fort Worth, TX	San Francisco, CA	9
+Albuquerque, NM	Los Angeles, CA	9
+Minneapolis, MN	Los Angeles, CA	9
+Atlanta, GA	Santa Ana, CA	9
+San Jose, CA	Las Vegas, NV	9
+San Francisco, CA	Charlotte, NC	9
+Denver, CO	San Francisco, CA	9
+Bakersfield, CA	San Diego, CA	9
+San Jose, CA	Portland, OR	9
+Seattle, WA	Oakland, CA	9
+New York, NY	San Francisco, CA	9
+Seattle, WA	San Francisco, CA	9
+Phoenix, AZ	Long Beach, CA	9
+Ontario, CA	Phoenix, AZ	9
+San Jose, CA	Monterey, CA	9
+Minneapolis, MN	Burbank, CA	9
+San Diego, CA	Boston, MA	9
+San Diego, CA	Oakland, CA	9
+Spokane, WA	Oakland, CA	9
+San Diego, CA	San Antonio, TX	9
+Phoenix, AZ	Sacramento, CA	9
+Burbank, CA	Chicago, IL	9
+Chico, CA	Sacramento, CA	9
+San Francisco, CA	Washington, DC	9
+Medford, OR	San Francisco, CA	9
+Sacramento, CA	Salt Lake City, UT	9
+Las Vegas, NV	Los Angeles, CA	9
+Los Angeles, CA	Dallas/Fort Worth, TX	9
+Burbank, CA	Salina, KS	9
+Los Angeles, CA	Dallas/Fort Worth, TX	9
+Portland, OR	San Jose, CA	9
+Los Angeles, CA	Salt Lake City, UT	9
+Salt Lake City, UT	San Francisco, CA	9
+San Diego, CA	Memphis, TN	9
+San Jose, CA	Seattle, WA	9
+Fresno, CA	Portland, OR	9
+Seattle, WA	Fresno, CA	9
+Santa Ana, CA	Phoenix, AZ	9
+San Francisco, CA	Colorado Springs, CO	9
+Denver, CO	San Francisco, CA	9
+Dallas/Fort Worth, TX	Ontario, CA	9
+Washington, DC	San Francisco, CA	9
+San Francisco, CA	Baltimore, MD	9
+Sacramento, CA	Los Angeles, CA	9
+Seattle, WA	San Jose, CA	9
+Crescent City, CA	Sacramento, CA	9
+San Francisco, CA	Bend/Redmond, OR	9
+San Jose, CA	Dallas/Fort Worth, TX	9
+Houston, TX	Sacramento, CA	9
+Sacramento, CA	Memphis, TN	9
+Houston, TX	San Diego, CA	9
+Philadelphia, PA	San Jose, CA	9
+Salt Lake City, UT	San Jose, CA	10
+Oakland, CA	Portland, OR	10
+San Francisco, CA	Pittsburgh, PA	10
+Phoenix, AZ	Burbank, CA	10
+San Diego, CA	Los Angeles, CA	10
+Oakland, CA	Lihue, HI	10
+San Francisco, CA	Boston, MA	10
+Phoenix, AZ	San Diego, CA	10
+Redding, CA	San Francisco, CA	10
+Las Vegas, NV	San Francisco, CA	10
+Portland, OR	San Diego, CA	10
+New York, NY	Oakland, CA	10
+Washington, DC	Los Angeles, CA	10
+Washington, DC	Los Angeles, CA	10
+Las Vegas, NV	Burbank, CA	10
+Los Angeles, CA	Kahului, HI	10
+Honolulu, HI	Ontario, CA	10
+Washington, DC	San Francisco, CA	10
+Fresno, CA	Seattle, WA	10
+Salt Lake City, UT	San Diego, CA	10
+Seattle, WA	Oakland, CA	10
+Albuquerque, NM	San Francisco, CA	10
+San Francisco, CA	St. Louis, MO	10
+Sacramento, CA	Burbank, CA	10
+San Francisco, CA	Denver, CO	10
+Seattle, WA	Long Beach, CA	10
+San Jose, CA	Louisville, KY	10
+San Jose, CA	Los Angeles, CA	10
+Portland, OR	San Jose, CA	10
+San Francisco, CA	Phoenix, AZ	10
+Redding, CA	Arcata/Eureka, CA	10
+San Francisco, CA	Austin, TX	10
+San Francisco, CA	Phoenix, AZ	10
+Portland, OR	San Jose, CA	10
+Salt Lake City, UT	Fresno, CA	10
+Los Angeles, CA	San Diego, CA	10
+Thermal, CA	Oakland, CA	10
+Oakland, CA	New York, NY	10
+Las Vegas, NV	Sacramento, CA	10
+San Jose, CA	Chicago, IL	10
+Austin, TX	San Francisco, CA	10
+Oakland, CA	Phoenix, AZ	10
+Oakland, CA	Louisville, KY	10
+San Francisco, CA	Kona, HI	10
+Los Angeles, CA	Yuma, AZ	10
+Stockton, CA	Palm Springs, CA	10
+Salt Lake City, UT	Santa Ana, CA	10
+Seattle, WA	Sacramento, CA	10
+Pittsburgh, PA	San Francisco, CA	10
+Sacramento, CA	Chicago, IL	10
+Ontario, CA	Oakland, CA	10
+Oakland, CA	Providence, RI	10
+Las Vegas, NV	Sacramento, CA	10
+Santa Barbara, CA	Phoenix, AZ	10
+Los Angeles, CA	Salt Lake City, UT	10
+Burbank, CA	Oakland, CA	10
+Ontario, CA	Inyokern, CA	10
+Las Vegas, NV	San Francisco, CA	10
+Los Angeles, CA	New York, NY	10
+Palm Springs, CA	Denver, CO	10
+Los Angeles, CA	Fresno, CA	10
+Minneapolis, MN	San Jose, CA	10
+Los Angeles, CA	Detroit, MI	10
+Phoenix, AZ	Los Angeles, CA	10
+Oakland, CA	Cleveland, OH	10
+Dallas/Fort Worth, TX	San Francisco, CA	10
+Kansas City, MO	Los Angeles, CA	10
+Bozeman, MT	Sacramento, CA	10
+San Diego, CA	Chicago, IL	10
+Portland, OR	Ontario, CA	10
+Portland, OR	Ontario, CA	10
+Austin, TX	San Diego, CA	10
+Chicago, IL	Santa Ana, CA	10
+Los Angeles, CA	Detroit, MI	10
+Burbank, CA	Las Vegas, NV	10
+Salt Lake City, UT	San Diego, CA	10
+Chicago, IL	Santa Ana, CA	10
+Chicago, IL	San Francisco, CA	10
+Dallas/Fort Worth, TX	Los Angeles, CA	10
+Indianapolis, IN	Ontario, CA	10
+Santa Ana, CA	Chicago, IL	10
+Medford, OR	San Francisco, CA	10
+San Diego, CA	Austin, TX	10
+Los Angeles, CA	Bakersfield, CA	10
+Miami, FL	San Francisco, CA	10
+Burbank, CA	Monterey, CA	10
+Philadelphia, PA	San Diego, CA	10
+Santa Barbara, CA	San Francisco, CA	10
+Minneapolis, MN	Van Nuys, CA	10
+Seattle, WA	San Diego, CA	10
+San Francisco, CA	Houston, TX	10
+Salt Lake City, UT	San Francisco, CA	10
+Phoenix, AZ	San Francisco, CA	10
+Los Angeles, CA	Missoula, MT	10
+Los Angeles, CA	Reno, NV	10
+Sacramento, CA	Omaha, NE	10
+Des Moines, IA	Oakland, CA	10
+Los Angeles, CA	Baltimore, MD	10
+Chicago, IL	Los Angeles, CA	10
+Minneapolis, MN	San Diego, CA	10
+Colorado Springs, CO	Los Angeles, CA	10
+Monterey, CA	Denver, CO	10
+Cleveland, OH	Los Angeles, CA	10
+Oakland, CA	Seattle, WA	10
+San Jose, CA	Phoenix, AZ	10
+Las Vegas, NV	San Francisco, CA	10
+Los Angeles, CA	Reno, NV	10
+Bakersfield, CA	Phoenix, AZ	10
+San Antonio, TX	San Diego, CA	10
+San Francisco, CA	Portland, OR	10
+Los Angeles, CA	Chicago, IL	10
+Chicago, IL	San Jose, CA	10
+Indianapolis, IN	Los Angeles, CA	10
+New York, NY	Ontario, CA	10
+Burbank, CA	Denver, CO	10
+Los Angeles, CA	Palm Springs, CA	10
+Oakland, CA	Salt Lake City, UT	10
+Burbank, CA	Teterboro, NJ	10
+Long Beach, CA	Portland, OR	10
+Chicago, IL	San Francisco, CA	10
+Philadelphia, PA	Ontario, CA	10
+Memphis, TN	Los Angeles, CA	10
+Sacramento, CA	Las Vegas, NV	10
+Seattle, WA	Ontario, CA	10
+Denver, CO	Ontario, CA	10
+Denver, CO	San Diego, CA	10
+San Francisco, CA	Chicago, IL	10
+Fort Lauderdale, FL	San Francisco, CA	10
+Burbank, CA	Miami, FL	10
+Kona, HI	Los Angeles, CA	10
+Las Vegas, NV	Fresno, CA	10
+Los Angeles, CA	Memphis, TN	10
+Newark, NJ	Los Angeles, CA	10
+Long Beach, CA	Teterboro, NJ	10
+Boston, MA	Los Angeles, CA	10
+Dallas/Fort Worth, TX	San Diego, CA	10
+Salt Lake City, UT	Fresno, CA	10
+Sacramento, CA	Salt Lake City, UT	10
+Fresno, CA	Cincinnati, OH	10
+Burbank, CA	Salt Lake City, UT	10
+Minneapolis, MN	Los Angeles, CA	10
+Newark, NJ	San Francisco, CA	10
+Memphis, TN	Sacramento, CA	10
+Los Angeles, CA	Houston, TX	10
+San Jose, CA	Seattle, WA	10
+Cleveland, OH	San Francisco, CA	10
+Santa Fe, NM	Los Angeles, CA	10
+Los Angeles, CA	Minneapolis, MN	10
+Denver, CO	San Jose, CA	10
+Las Vegas, NV	Los Angeles, CA	10
+Burbank, CA	Phoenix, AZ	10
+Sacramento, CA	Honolulu, HI	10
+Bullhead City, AZ	San Jose, CA	10
+San Diego, CA	Charlotte, NC	10
+San Jose, CA	Las Vegas, NV	10
+El Paso, TX	San Francisco, CA	10
+Los Angeles, CA	Memphis, TN	10
+Miami, FL	Los Angeles, CA	10
+Monterey, CA	San Jose, CA	10
+San Francisco, CA	Portland, OR	10
+Burbank, CA	Atlanta, GA	10
+Seattle, WA	Oakland, CA	10
+Santa Ana, CA	Seattle, WA	10
+Newark, NJ	Santa Ana, CA	10
+Sacramento, CA	Phoenix, AZ	10
+Salt Lake City, UT	Ontario, CA	10
+Atlanta, GA	San Diego, CA	10
+Seattle, WA	San Francisco, CA	10
+San Diego, CA	Minneapolis, MN	10
+Cincinnati, OH	San Diego, CA	10
+San Francisco, CA	Colorado Springs, CO	10
+San Diego, CA	Memphis, TN	10
+Reno, NV	Oakland, CA	10
+Seattle, WA	Sacramento, CA	10
+Las Vegas, NV	Burbank, CA	10
+Honolulu, HI	Sacramento, CA	10
+San Jose, CA	Santa Barbara, CA	10
+San Diego, CA	Los Angeles, CA	10
+Sacramento, CA	Houston, TX	10
+San Jose, CA	Portland, OR	10
+Honolulu, HI	Ontario, CA	10
+Sacramento, CA	Houston, TX	10
+San Jose, CA	Louisville, KY	10
+Los Angeles, CA	San Francisco, CA	10
+Albuquerque, NM	Los Angeles, CA	10
+Sacramento, CA	Eureka, CA	10
+San Diego, CA	Newark, NJ	10
+San Francisco, CA	El Paso, TX	10
+Chicago, IL	San Diego, CA	10
+Los Angeles, CA	Denver, CO	10
+San Jose, CA	Ontario, CA	10
+San Diego, CA	Albuquerque, NM	10
+Los Angeles, CA	Detroit, MI	10
+San Diego, CA	Newark, NJ	10
+Los Angeles, CA	Memphis, TN	10
+San Diego, CA	San Francisco, CA	10
+Santa Ana, CA	Portland, OR	10
+Dallas/Fort Worth, TX	San Francisco, CA	10
+San Francisco, CA	Kahului, HI	10
+Denver, CO	Santa Ana, CA	10
+Portland, OR	Sacramento, CA	10
+Oakland, CA	Portland, OR	10
+Dallas/Fort Worth, TX	Ontario, CA	10
+Los Angeles, CA	Philadelphia, PA	10
+Houston, TX	Sacramento, CA	10
+Burbank, CA	Las Vegas, NV	10
+San Francisco, CA	Long Beach, CA	10
+Los Angeles, CA	Tucson, AZ	10
+Marquette, MI	San Jose, CA	10
+Seattle, WA	San Jose, CA	10
+San Francisco, CA	Los Angeles, CA	10
+Sacramento, CA	Ontario, CA	10
+San Diego, CA	San Antonio, TX	10
+Los Angeles, CA	Cleveland, OH	10
+Portland, OR	Sacramento, CA	10
+San Jose, CA	Houston, TX	10
+Oakland, CA	San Diego, CA	10
+Seattle, WA	Fresno, CA	10
+Lihue, HI	Los Angeles, CA	10
+Sacramento, CA	Los Angeles, CA	10
+Los Angeles, CA	El Paso, TX	10
+Lake Tahoe, CA	Burbank, CA	10
+San Diego, CA	San Francisco, CA	10
+Newark, NJ	San Francisco, CA	10
+Santa Ana, CA	San Francisco, CA	10
+Inyokern, CA	Los Angeles, CA	10
+Denver, CO	San Diego, CA	10
+Los Angeles, CA	Austin, TX	10
+San Jose, CA	Portland, OR	10
+Ontario, CA	Los Angeles, CA	10
+San Diego, CA	Phoenix, AZ	10
+Phoenix, AZ	Ontario, CA	10
+Los Angeles, CA	Inyokern, CA	10
+Los Angeles, CA	Dallas/Fort Worth, TX	10
+Burbank, CA	Kahului, HI	10
+Las Vegas, NV	Los Angeles, CA	10
+San Diego, CA	Houston, TX	10
+San Francisco, CA	Los Angeles, CA	10
+Ontario, CA	Honolulu, HI	10
+Medford, OR	Sacramento, CA	10
+New York, NY	San Diego, CA	10
+Denver, CO	Los Angeles, CA	10
+Austin, TX	Oakland, CA	10
+Santa Ana, CA	Atlanta, GA	10
+San Jose, CA	Lihue, HI	10
+Los Angeles, CA	Honolulu, HI	10
+San Francisco, CA	Reno, NV	10
+Phoenix, AZ	Palm Springs, CA	10
+Denver, CO	Los Angeles, CA	10
+Los Angeles, CA	Dallas/Fort Worth, TX	10
+Burbank, CA	Indianapolis, IN	10
+Oakland, CA	Burbank, CA	10
+Burbank, CA	Washington, DC	10
+Yuma, AZ	Los Angeles, CA	10
+Ontario, CA	Sacramento, CA	10
+Hilo, HI	San Francisco, CA	10
+San Jose, CA	Ontario, CA	10
+Los Angeles, CA	Denver, CO	10
+Newark, NJ	San Diego, CA	10
+San Jose, CA	Atlanta, GA	10
+Los Angeles, CA	San Jose, CA	10
+Oakland, CA	Seattle, WA	10
+Seattle, WA	Sacramento, CA	10
+San Francisco, CA	Ontario, CA	10
+Portland, OR	Burbank, CA	10
+North Bend/Coos Bay, OR	San Francisco, CA	10
+Oakland, CA	Eugene, OR	10
+Los Angeles, CA	San Francisco, CA	10
+Los Angeles, CA	Dallas/Fort Worth, TX	10
+Denver, CO	Sacramento, CA	10
+Washington, DC	San Diego, CA	10
+Oakland, CA	Columbia, SC	10
+San Diego, CA	San Francisco, CA	10
+Los Angeles, CA	Sacramento, CA	10
+Burbank, CA	Las Vegas, NV	11
+Portland, OR	San Francisco, CA	11
+Philadelphia, PA	Sacramento, CA	11
+Tucson, AZ	San Jose, CA	11
+Dallas/Fort Worth, TX	Los Angeles, CA	11
+Des Moines, IA	San Jose, CA	11
+Phoenix, AZ	Santa Ana, CA	11
+Salt Lake City, UT	San Francisco, CA	11
+Los Angeles, CA	Washington, DC	11
+Las Vegas, NV	Oakland, CA	11
+Shreveport, LA	Ontario, CA	11
+Denver, CO	San Jose, CA	11
+Los Angeles, CA	Chicago, IL	11
+Phoenix, AZ	San Francisco, CA	11
+Teterboro, NJ	Carlsbad, CA	11
+Santa Barbara, CA	Los Angeles, CA	11
+Los Angeles, CA	Orlando, FL	11
+Oakland, CA	Reno, NV	11
+Indianapolis, IN	Los Angeles, CA	11
+Bakersfield, CA	Phoenix, AZ	11
+San Francisco, CA	Austin, TX	11
+Albuquerque, NM	San Francisco, CA	11
+Stockton, CA	Las Vegas, NV	11
+San Diego, CA	Phoenix, AZ	11
+Seattle, WA	Ontario, CA	11
+Oakland, CA	Phoenix, AZ	11
+Reno, NV	Los Angeles, CA	11
+Ontario, CA	Los Angeles, CA	11
+Pittsburgh, PA	Los Angeles, CA	11
+San Jose, CA	Denver, CO	11
+San Diego, CA	Washington, DC	11
+Oakland, CA	Spokane, WA	11
+San Diego, CA	Dallas/Fort Worth, TX	11
+Houston, TX	San Diego, CA	11
+Santa Barbara, CA	Ontario, CA	11
+Oakland, CA	Kahului, HI	11
+Los Angeles, CA	Minneapolis, MN	11
+Boise, ID	Oakland, CA	11
+Phoenix, AZ	Los Angeles, CA	11
+Burbank, CA	Oakland, CA	11
+Sacramento, CA	Seattle, WA	11
+Oakland, CA	Memphis, TN	11
+Oakland, CA	Phoenix, AZ	11
+Seattle, WA	Fresno, CA	11
+Austin, TX	Los Angeles, CA	11
+Baltimore, MD	San Francisco, CA	11
+Palm Springs, CA	San Francisco, CA	11
+Newark, NJ	San Francisco, CA	11
+Los Angeles, CA	Seattle, WA	11
+Sacramento, CA	Denver, CO	11
+Salt Lake City, UT	Burbank, CA	11
+San Jose, CA	Los Angeles, CA	11
+Santa Maria, CA	Burbank, CA	11
+Denver, CO	Santa Ana, CA	11
+Boise, ID	Sacramento, CA	11
+Los Angeles, CA	Dallas/Fort Worth, TX	11
+Phoenix, AZ	Oakland, CA	11
+Seattle, WA	San Francisco, CA	11
+Cleveland, OH	San Francisco, CA	11
+Oakland, CA	San Jose, CA	11
+Lewiston, ID	San Jose, CA	11
+Boston, MA	Los Angeles, CA	11
+Las Vegas, NV	San Francisco, CA	11
+Chicago, IL	Santa Ana, CA	11
+Monterey, CA	Stockton, CA	11
+Honolulu, HI	Santa Ana, CA	11
+Los Angeles, CA	Dallas/Fort Worth, TX	11
+Los Angeles, CA	Monterey, CA	11
+Philadelphia, PA	San Francisco, CA	11
+Santa Rosa, CA	Bend/Redmond, OR	11
+San Francisco, CA	Baltimore, MD	11
+San Francisco, CA	Charlotte, NC	11
+San Jose, CA	Seattle, WA	11
+Oakland, CA	Eugene, OR	11
+St. Louis, MO	San Francisco, CA	11
+Fort Lauderdale, FL	Los Angeles, CA	11
+Los Angeles, CA	Louisville, KY	11
+Oakland, CA	Minneapolis, MN	11
+Santa Maria, CA	Bakersfield, CA	11
+New Orleans, LA	San Francisco, CA	11
+Washington, DC	Los Angeles, CA	11
+Las Vegas, NV	Sacramento, CA	11
+Burbank, CA	Oakland, CA	11
+Oakland, CA	Phoenix, AZ	11
+Sacramento, CA	Palm Springs, CA	11
+San Francisco, CA	Minneapolis, MN	11
+Portland, OR	San Francisco, CA	11
+Denver, CO	Santa Ana, CA	11
+Oakland, CA	Washington, DC	11
+Kona, HI	San Jose, CA	11
+San Diego, CA	Phoenix, AZ	11
+Burbank, CA	Seattle, WA	11
+Burbank, CA	Napa, CA	11
+San Diego, CA	Austin, TX	11
+Burbank, CA	Bullhead City, AZ	11
+San Diego, CA	Portland, OR	11
+Los Angeles, CA	Missoula, MT	11
+San Francisco, CA	Santa Ana, CA	11
+Reno, NV	Ontario, CA	11
+Chicago, IL	Palm Springs, CA	11
+Las Vegas, NV	Los Angeles, CA	11
+Los Angeles, CA	Indianapolis, IN	11
+Raleigh/Durham, NC	Los Angeles, CA	11
+Phoenix, AZ	Oakland, CA	11
+Burbank, CA	Teterboro, NJ	11
+Arcata/Eureka, CA	Sacramento, CA	11
+San Francisco, CA	Boston, MA	11
+Salt Lake City, UT	Sacramento, CA	11
+Oakland, CA	Salt Lake City, UT	11
+Tucson, AZ	Los Angeles, CA	11
+Denver, CO	Los Angeles, CA	11
+Cleveland, OH	Los Angeles, CA	11
+Las Vegas, NV	Los Angeles, CA	11
+Las Vegas, NV	Los Angeles, CA	11
+San Diego, CA	Atlanta, GA	11
+Oakland, CA	Seattle, WA	11
+San Jose, CA	Portland, OR	11
+San Francisco, CA	Portland, OR	11
+San Francisco, CA	Los Angeles, CA	11
+Long Beach, CA	Idaho Falls, ID	11
+Reno, NV	San Diego, CA	11
+Ontario, CA	Los Angeles, CA	11
+Los Angeles, CA	Miami, FL	11
+San Diego, CA	Newark, NJ	11
+Los Angeles, CA	Charlotte, NC	11
+Los Angeles, CA	Fort Lauderdale, FL	11
+Portland, OR	San Diego, CA	11
+Burbank, CA	Denver, CO	11
+San Francisco, CA	St. Louis, MO	11
+Phoenix, AZ	San Luis Obispo, CA	11
+Burbank, CA	Baltimore, MD	11
+Oakland, CA	Albany, NY	11
+Burbank, CA	Miami, FL	11
+Boston, MA	Los Angeles, CA	11
+San Francisco, CA	Kansas City, MO	11
+Idaho Falls, ID	Long Beach, CA	11
+Chicago, IL	San Francisco, CA	11
+Oakland, CA	Newark, NJ	11
+Philadelphia, PA	Ontario, CA	11
+Santa Ana, CA	Louisville, KY	11
+San Diego, CA	Salt Lake City, UT	11
+Los Angeles, CA	Dallas/Fort Worth, TX	11
+Houston, TX	Oakland, CA	11
+Milwaukee, WI	Los Angeles, CA	11
+Los Angeles, CA	San Diego, CA	11
+San Francisco, CA	Idaho Falls, ID	11
+Phoenix, AZ	San Francisco, CA	11
+South Bend, IN	San Francisco, CA	11
+Ontario, CA	Santa Ana, CA	11
+Palm Springs, CA	Denver, CO	11
+New Orleans, LA	Los Angeles, CA	11
+Denver, CO	San Francisco, CA	11
+Seattle, WA	Long Beach, CA	11
+Houston, TX	Los Angeles, CA	11
+Denver, CO	San Jose, CA	11
+Sacramento, CA	Chicago, IL	11
+Van Nuys, CA	Teterboro, NJ	11
+Medford, OR	Los Angeles, CA	11
+Kahului, HI	Oakland, CA	11
+Ontario, CA	Salt Lake City, UT	11
+Los Angeles, CA	San Francisco, CA	11
+San Francisco, CA	Portland, OR	11
+San Diego, CA	San Francisco, CA	11
+Ontario, CA	Los Angeles, CA	11
+Portland, OR	San Jose, CA	11
+San Diego, CA	Los Angeles, CA	11
+Los Angeles, CA	Nashville, TN	11
+Washington, DC	San Francisco, CA	11
+Washington, DC	San Diego, CA	11
+San Jose, CA	Los Angeles, CA	11
+Miami, FL	Los Angeles, CA	11
+San Francisco, CA	Salt Lake City, UT	11
+San Francisco, CA	Chicago, IL	11
+San Francisco, CA	Honolulu, HI	11
+Las Vegas, NV	Los Angeles, CA	11
+San Luis Obispo, CA	Monterey, CA	11
+Los Angeles, CA	Reno, NV	11
+San Francisco, CA	Atlanta, GA	11
+Burbank, CA	Palm Springs, CA	11
+Sacramento, CA	Tucson, AZ	11
+San Francisco, CA	Houston, TX	11
+Ontario, CA	Rockford, IL	11
+San Diego, CA	Portland, OR	11
+San Luis Obispo, CA	San Francisco, CA	11
+Las Vegas, NV	Los Angeles, CA	11
+Phoenix, AZ	San Francisco, CA	11
+Portland, OR	Oakland, CA	11
+San Francisco, CA	Eugene, OR	11
+Los Angeles, CA	Detroit, MI	11
+Buffalo, NY	San Francisco, CA	11
+Phoenix, AZ	Sacramento, CA	11
+San Jose, CA	Kansas City, MO	11
+San Francisco, CA	Ontario, CA	11
+Phoenix, AZ	Ontario, CA	11
+San Francisco, CA	Seattle, WA	11
+Louisville, KY	Ontario, CA	11
+Los Angeles, CA	El Paso, TX	11
+Burbank, CA	Salt Lake City, UT	11
+San Francisco, CA	Medford, OR	11
+Columbia, SC	Ontario, CA	11
+Los Angeles, CA	San Jose, CA	11
+El Paso, TX	Palm Springs, CA	11
+San Diego, CA	San Jose, CA	11
+Los Angeles, CA	Boston, MA	11
+Palm Springs, CA	San Francisco, CA	11
+Fresno, CA	Denver, CO	11
+Long Beach, CA	Portland, OR	11
+Los Angeles, CA	Washington, DC	11
+Houston, TX	Los Angeles, CA	11
+Kansas City, MO	Los Angeles, CA	11
+Phoenix, AZ	Los Angeles, CA	11
+Albuquerque, NM	San Diego, CA	11
+Oakland, CA	Los Angeles, CA	11
+Sacramento, CA	San Diego, CA	11
+Reno, NV	Ontario, CA	11
+Dallas/Fort Worth, TX	San Jose, CA	11
+Los Angeles, CA	New York, NY	11
+Seattle, WA	San Jose, CA	11
+Palm Springs, CA	Seattle, WA	11
+San Diego, CA	Denver, CO	11
+Denver, CO	Los Angeles, CA	11
+Los Angeles, CA	Anchorage, AK	11
+Portland, OR	Oakland, CA	11
+Oakland, CA	Albuquerque, NM	11
+Los Angeles, CA	Oklahoma City, OK	11
+Portland, OR	San Francisco, CA	11
+Oakland, CA	Spokane, WA	11
+Sacramento, CA	Portland, OR	11
+Minneapolis, MN	Los Angeles, CA	11
+Minneapolis, MN	San Francisco, CA	11
+Louisville, KY	San Jose, CA	11
+Denver, CO	Los Angeles, CA	11
+Oakland, CA	Salt Lake City, UT	11
+Ontario, CA	Seattle, WA	11
+Sacramento, CA	Ontario, CA	11
+Los Angeles, CA	Seattle, WA	11
+Reno, NV	San Francisco, CA	11
+San Diego, CA	Honolulu, HI	11
+Denver, CO	Ontario, CA	11
+Houston, TX	San Diego, CA	11
+San Diego, CA	San Francisco, CA	11
+Sacramento, CA	San Jose, CA	11
+Los Angeles, CA	Santa Ana, CA	11
+Los Angeles, CA	Honolulu, HI	11
+Oakland, CA	Indianapolis, IN	11
+Denver, CO	Santa Barbara, CA	11
+Las Vegas, NV	Ontario, CA	11
+San Francisco, CA	Dallas/Fort Worth, TX	11
+Los Angeles, CA	Lihue, HI	11
+Houston, TX	Los Angeles, CA	11
+Los Angeles, CA	Orlando, FL	11
+Ontario, CA	Santa Barbara, CA	11
+Omaha, NE	Oakland, CA	11
+Phoenix, AZ	Long Beach, CA	11
+San Diego, CA	San Francisco, CA	11
+Pittsburgh, PA	San Francisco, CA	11
+Atlanta, GA	Burbank, CA	11
+Medfra, AK	Burbank, CA	11
+Oakland, CA	Denver, CO	11
+Chicago, IL	San Diego, CA	11
+Tucson, AZ	San Francisco, CA	11
+San Jose, CA	Burbank, CA	11
+Long Beach, CA	Los Angeles, CA	11
+Los Angeles, CA	Phoenix, AZ	11
+Albuquerque, NM	Los Angeles, CA	11
+Seattle, WA	Burbank, CA	11
+Palm Springs, CA	Denver, CO	11
+Phoenix, AZ	San Jose, CA	11
+Seattle, WA	San Jose, CA	11
+Santa Monica, CA	Teterboro, NJ	11
+Denver, CO	San Diego, CA	11
+Salt Lake City, UT	Burbank, CA	11
+San Jose, CA	Denver, CO	11
+Oakland, CA	Portland, OR	11
+Denver, CO	Sacramento, CA	11
+Oakland, CA	Denver, CO	11
+Kansas City, MO	San Francisco, CA	11
+Salt Lake City, UT	Sacramento, CA	11
+Los Angeles, CA	Prescott, AZ	11
+Los Angeles, CA	Honolulu, HI	11
+San Francisco, CA	Sacramento, CA	11
+Los Angeles, CA	Lihue, HI	11
+Oakland, CA	Visalia, CA	11
+Los Angeles, CA	San Juan, PR	11
+Sacramento, CA	Ontario, CA	11
+Crescent City, CA	Chico, CA	11
+Anchorage, AK	Los Angeles, CA	11
+Pittsburgh, PA	Burbank, CA	11
+Los Angeles, CA	Reno, NV	11
+Los Angeles, CA	San Francisco, CA	11
+Sacramento, CA	San Francisco, CA	11
+Palm Springs, CA	Los Angeles, CA	11
+San Francisco, CA	Spokane, WA	11
+Los Angeles, CA	Lihue, HI	11
+Spokane, WA	Ontario, CA	11
+Medford, OR	Monterey, CA	11
+Houston, TX	Burbank, CA	11
+Ontario, CA	Sacramento, CA	11
+Ontario, CA	Portland, OR	11
+Oakland, CA	Salt Lake City, UT	11
+Phoenix, AZ	Ontario, CA	11
+Denver, CO	San Jose, CA	11
+Phoenix, AZ	Santa Barbara, CA	11
+Oakland, CA	Anchorage, AK	11
+Phoenix, AZ	Los Angeles, CA	11
+Ontario, CA	Seattle, WA	11
+Houston, TX	Bakersfield, CA	11
+Albuquerque, NM	Los Angeles, CA	11
+Charlotte, NC	San Francisco, CA	11
+Atlanta, GA	San Francisco, CA	11
+Ontario, CA	Indianapolis, IN	11
+Sacramento, CA	Ukiah, CA	11
+San Diego, CA	Tucson, AZ	11
+Los Angeles, CA	San Diego, CA	11
+Santa Ana, CA	San Jose, CA	11
+Sacramento, CA	Los Angeles, CA	11
+Denver, CO	Santa Ana, CA	11
+Los Angeles, CA	San Antonio, TX	11
+Ontario, CA	Salt Lake City, UT	11
+Oakland, CA	Louisville, KY	11
+Atlanta, GA	Los Angeles, CA	11
+Las Vegas, NV	San Jose, CA	11
+Portland, OR	Sacramento, CA	11
+San Diego, CA	Denver, CO	11
+Santa Barbara, CA	Seattle, WA	11
+Reno, NV	Sacramento, CA	11
+Los Angeles, CA	Bakersfield, CA	11
+Los Angeles, CA	Atlanta, GA	11
+Oakland, CA	Albuquerque, NM	11
+Salt Lake City, UT	Los Angeles, CA	11
+Los Angeles, CA	Honolulu, HI	11
+Portland, OR	San Jose, CA	11
+Oakland, CA	Kona, HI	11
+Reno, NV	Oakland, CA	11
+Dallas/Fort Worth, TX	Santa Ana, CA	11
+Denver, CO	Ontario, CA	11
+San Francisco, CA	Portland, OR	11
+Boise, ID	Oakland, CA	11
+Salt Lake City, UT	Ontario, CA	11
+Atlanta, GA	San Francisco, CA	12
+Visalia, CA	Los Angeles, CA	12
+Seattle, WA	San Francisco, CA	12
+Dallas/Fort Worth, TX	Oakland, CA	12
+Burbank, CA	San Jose, CA	12
+Los Angeles, CA	Chicago, IL	12
+San Francisco, CA	Cincinnati, OH	12
+Phoenix, AZ	Fresno, CA	12
+Sacramento, CA	Reno, NV	12
+Oakland, CA	Spokane, WA	12
+San Francisco, CA	San Diego, CA	12
+Seattle, WA	Sacramento, CA	12
+Kansas City, MO	San Diego, CA	12
+Ontario, CA	Denver, CO	12
+Sacramento, CA	Seattle, WA	12
+Las Vegas, NV	Merced, CA	12
+Seattle, WA	Palm Springs, CA	12
+San Francisco, CA	Phoenix, AZ	12
+San Francisco, CA	New York, NY	12
+Phoenix, AZ	San Diego, CA	12
+Seattle, WA	San Francisco, CA	12
+Oakland, CA	Thermal, CA	12
+Oakland, CA	Kansas City, MO	12
+Palm Springs, CA	San Francisco, CA	12
+Portland, OR	San Francisco, CA	12
+Oakland, CA	Dallas/Fort Worth, TX	12
+Los Angeles, CA	Palm Springs, CA	12
+Ontario, CA	Indianapolis, IN	12
+Sacramento, CA	Minneapolis, MN	12
+Oakland, CA	Ontario, CA	12
+Los Angeles, CA	Tucson, AZ	12
+Sacramento, CA	Ontario, CA	12
+Denver, CO	Los Angeles, CA	12
+San Francisco, CA	Washington, DC	12
+Miami, FL	Los Angeles, CA	12
+Los Angeles, CA	Newark, NJ	12
+San Jose, CA	Denver, CO	12
+Redding, CA	Stockton, CA	12
+Minneapolis, MN	Los Angeles, CA	12
+Oakland, CA	Los Angeles, CA	12
+San Francisco, CA	Seattle, WA	12
+Burbank, CA	Las Vegas, NV	12
+Burbank, CA	Bullhead City, AZ	12
+Los Angeles, CA	San Francisco, CA	12
+Salt Lake City, UT	San Francisco, CA	12
+Ontario, CA	Spokane, WA	12
+Honolulu, HI	San Diego, CA	12
+Denver, CO	Ontario, CA	12
+Salt Lake City, UT	San Diego, CA	12
+Kansas City, MO	Los Angeles, CA	12
+San Francisco, CA	Los Angeles, CA	12
+North Bend/Coos Bay, OR	San Francisco, CA	12
+Ontario, CA	Long Beach, CA	12
+Los Angeles, CA	Houston, TX	12
+Oakland, CA	Los Angeles, CA	12
+Portland, OR	San Diego, CA	12
+Los Angeles, CA	Nashville, TN	12
+Denver, CO	San Francisco, CA	12
+Las Vegas, NV	Burbank, CA	12
+Phoenix, AZ	Ontario, CA	12
+Monterey, CA	Fresno, CA	12
+Oakland, CA	Salt Lake City, UT	12
+San Diego, CA	Las Vegas, NV	12
+Los Angeles, CA	Austin, TX	12
+Houston, TX	San Diego, CA	12
+San Francisco, CA	Fresno, CA	12
+Honolulu, HI	Sacramento, CA	12
+San Jose, CA	Las Vegas, NV	12
+Reno, NV	San Diego, CA	12
+Denver, CO	Los Angeles, CA	12
+Phoenix, AZ	Los Angeles, CA	12
+Honolulu, HI	Los Angeles, CA	12
+St. Louis, MO	Los Angeles, CA	12
+Boston, MA	San Diego, CA	12
+Crescent City, CA	Arcata/Eureka, CA	12
+Sacramento, CA	Denver, CO	12
+Los Angeles, CA	Aspen, CO	12
+Crescent City, CA	San Francisco, CA	12
+Ontario, CA	Los Angeles, CA	12
+Sacramento, CA	Seattle, WA	12
+Kahului, HI	Los Angeles, CA	12
+New Orleans, LA	Los Angeles, CA	12
+Phoenix, AZ	Ontario, CA	12
+Bullhead City, AZ	Ontario, CA	12
+Chicago, IL	Los Angeles, CA	12
+San Francisco, CA	Portland, OR	12
+Boise, ID	San Jose, CA	12
+Chicago, IL	Los Angeles, CA	12
+San Francisco, CA	Medford, OR	12
+Tucson, AZ	Los Angeles, CA	12
+Los Angeles, CA	Boise, ID	12
+Oakland, CA	Atlanta, GA	12
+Minneapolis, MN	San Francisco, CA	12
+San Francisco, CA	Detroit, MI	12
+Phoenix, AZ	Los Angeles, CA	12
+Arcata/Eureka, CA	Sacramento, CA	12
+Nashville, TN	San Diego, CA	12
+Los Angeles, CA	Grand Junction, CO	12
+Los Angeles, CA	Reno, NV	12
+San Diego, CA	Phoenix, AZ	12
+Detroit, MI	Los Angeles, CA	12
+Houston, TX	San Jose, CA	12
+Los Angeles, CA	Houston, TX	12
+San Francisco, CA	Los Angeles, CA	12
+Los Angeles, CA	New Orleans, LA	12
+Seattle, WA	Santa Barbara, CA	12
+Ontario, CA	Seattle, WA	12
+San Diego, CA	Fresno, CA	12
+San Francisco, CA	Burbank, CA	12
+Phoenix, AZ	Los Angeles, CA	12
+Phoenix, AZ	San Diego, CA	12
+Denver, CO	Burbank, CA	12
+Salt Lake City, UT	Long Beach, CA	12
+San Diego, CA	San Francisco, CA	12
+Portland, OR	Long Beach, CA	12
+Atlanta, GA	San Diego, CA	12
+Medford, OR	San Francisco, CA	12
+San Francisco, CA	Las Vegas, NV	12
+Oakland, CA	Spokane, WA	12
+Los Angeles, CA	Boston, MA	12
+Los Angeles, CA	Abilene, TX	12
+Las Vegas, NV	Oakland, CA	12
+San Diego, CA	San Francisco, CA	12
+Minneapolis, MN	Los Angeles, CA	12
+Oakland, CA	Austin, TX	12
+Ontario, CA	Salt Lake City, UT	12
+Santa Barbara, CA	Los Angeles, CA	12
+Fresno, CA	Las Vegas, NV	12
+Santa Barbara, CA	Denver, CO	12
+Riverside, CA	Honolulu, HI	12
+San Diego, CA	Denver, CO	12
+San Francisco, CA	San Diego, CA	12
+Rockford, IL	Sacramento, CA	12
+Louisville, KY	San Jose, CA	12
+Ontario, CA	Rockford, IL	12
+Sacramento, CA	Louisville, KY	12
+Los Angeles, CA	Indianapolis, IN	12
+Kahului, HI	Los Angeles, CA	12
+Memphis, TN	Oakland, CA	12
+San Jose, CA	Portland, OR	12
+Los Angeles, CA	Lihue, HI	12
+Chicago, IL	Los Angeles, CA	12
+Denver, CO	Oakland, CA	12
+Ontario, CA	Seattle, WA	12
+Las Vegas, NV	Oakland, CA	12
+Denver, CO	Santa Ana, CA	12
+Seattle, WA	Los Angeles, CA	12
+Dallas/Fort Worth, TX	Burbank, CA	12
+El Paso, TX	Los Angeles, CA	12
+Carlsbad, CA	San Jose, CA	12
+San Diego, CA	San Francisco, CA	12
+San Francisco, CA	Ontario, CA	12
+Minneapolis, MN	Los Angeles, CA	12
+Denver, CO	Santa Barbara, CA	12
+Burbank, CA	Oakland, CA	12
+Fresno, CA	Portland, OR	12
+Seattle, WA	San Francisco, CA	12
+Charlotte, NC	Los Angeles, CA	12
+Santa Rosa, CA	Las Vegas, NV	12
+Los Angeles, CA	Miami, FL	12
+Palm Springs, CA	Portland, OR	12
+Houston, TX	Sacramento, CA	12
+San Francisco, CA	Charlotte, NC	12
+Los Angeles, CA	Burbank, CA	12
+San Francisco, CA	Honolulu, HI	12
+Los Angeles, CA	Las Vegas, NV	12
+Seattle, WA	Burbank, CA	12
+San Francisco, CA	Memphis, TN	12
+Kona, HI	Los Angeles, CA	12
+Salt Lake City, UT	San Francisco, CA	12
+Idaho Falls, ID	San Francisco, CA	12
+Phoenix, AZ	Sacramento, CA	12
+Palm Springs, CA	Phoenix, AZ	12
+Detroit, MI	San Francisco, CA	12
+Memphis, TN	Santa Ana, CA	12
+Palm Springs, CA	Portland, OR	12
+Ontario, CA	Philadelphia, PA	12
+Sacramento, CA	Phoenix, AZ	12
+Bakersfield, CA	Modesto, CA	12
+Denver, CO	Palm Springs, CA	12
+Sacramento, CA	Denver, CO	12
+San Francisco, CA	Pittsburgh, PA	12
+Ontario, CA	Los Angeles, CA	12
+Chicago, IL	Santa Ana, CA	12
+Seattle, WA	Sacramento, CA	12
+Santa Barbara, CA	Seattle, WA	12
+Burbank, CA	San Francisco, CA	12
+San Francisco, CA	Pittsburgh, PA	12
+San Jose, CA	Reno, NV	12
+San Francisco, CA	New York, NY	12
+Valparaiso, FL	Los Angeles, CA	12
+Denver, CO	San Jose, CA	12
+Sacramento, CA	Ontario, CA	12
+Sacramento, CA	Chicago, IL	12
+Reno, NV	Sacramento, CA	12
+Los Angeles, CA	Prescott, AZ	12
+Los Angeles, CA	Fresno, CA	12
+Orlando, FL	San Francisco, CA	12
+Washington, DC	San Francisco, CA	12
+Ontario, CA	Seattle, WA	12
+Merced, CA	Los Angeles, CA	12
+Oakland, CA	Appleton, WI	12
+Washington, DC	San Francisco, CA	12
+Salt Lake City, UT	San Francisco, CA	12
+San Francisco, CA	Santa Monica, CA	12
+Los Angeles, CA	Phoenix, AZ	12
+Denver, CO	Sacramento, CA	12
+San Diego, CA	Boston, MA	12
+Los Angeles, CA	Santa Ana, CA	12
+Memphis, TN	San Jose, CA	12
+San Francisco, CA	Atlanta, GA	12
+San Francisco, CA	Los Angeles, CA	12
+Burbank, CA	San Jose, CA	12
+Burbank, CA	Seattle, WA	12
+Mammoth Lakes, CA	San Jose, CA	12
+Montrose/Delta, CO	Los Angeles, CA	12
+Oakland, CA	Sacramento, CA	12
+San Francisco, CA	Reno, NV	12
+San Francisco, CA	Cleveland, OH	12
+San Francisco, CA	New York, NY	12
+Sacramento, CA	Las Vegas, NV	12
+Philadelphia, PA	San Francisco, CA	12
+Los Angeles, CA	Houston, TX	12
+Ontario, CA	San Diego, CA	12
+Burbank, CA	Kona, HI	12
+San Francisco, CA	Los Angeles, CA	12
+Chicago, IL	San Jose, CA	12
+Long Beach, CA	Boston, MA	12
+Ontario, CA	Des Moines, IA	12
+Ontario, CA	San Diego, CA	12
+San Francisco, CA	Seattle, WA	12
+San Francisco, CA	Houston, TX	12
+Santa Barbara, CA	Ontario, CA	12
+Houston, TX	San Francisco, CA	12
+Seattle, WA	Los Angeles, CA	12
+Dallas/Fort Worth, TX	San Diego, CA	12
+Oakland, CA	Sacramento, CA	12
+Oakland, CA	Bakersfield, CA	12
+New York, NY	Ontario, CA	12
+Mammoth Lakes, CA	San Francisco, CA	12
+San Luis Obispo, CA	San Jose, CA	12
+San Diego, CA	Oakland, CA	12
+Los Angeles, CA	Boston, MA	12
+Los Angeles, CA	San Diego, CA	12
+Sacramento, CA	Memphis, TN	12
+Oakland, CA	Minneapolis, MN	12
+Ontario, CA	Louisville, KY	12
+San Francisco, CA	Pittsburgh, PA	12
+Salt Lake City, UT	Los Angeles, CA	12
+Phoenix, AZ	Los Angeles, CA	12
+Indianapolis, IN	Los Angeles, CA	12
+Los Angeles, CA	Aspen, CO	12
+Salt Lake City, UT	Long Beach, CA	12
+Santa Ana, CA	Oklahoma City, OK	12
+San Francisco, CA	Charlotte, NC	12
+Los Angeles, CA	St. Louis, MO	12
+Bakersfield, CA	Phoenix, AZ	12
+Phoenix, AZ	San Diego, CA	12
+Sacramento, CA	Las Vegas, NV	12
+Sacramento, CA	Chicago, IL	12
+Honolulu, HI	Oakland, CA	12
+Salt Lake City, UT	Fresno, CA	12
+Los Angeles, CA	Santa Ana, CA	12
+San Diego, CA	Phoenix, AZ	12
+Phoenix, AZ	Ontario, CA	12
+Monterey, CA	San Jose, CA	12
+Rockford, IL	Ontario, CA	12
+Los Angeles, CA	Denver, CO	12
+Houston, TX	Los Angeles, CA	12
+Atlanta, GA	Oakland, CA	12
+Los Angeles, CA	Phoenix, AZ	12
+Kona, HI	Burbank, CA	12
+Albuquerque, NM	Oakland, CA	12
+San Francisco, CA	Spokane, WA	12
+San Jose, CA	Houston, TX	12
+San Francisco, CA	Chicago, IL	12
+Los Angeles, CA	Montrose/Delta, CO	12
+Louisville, KY	Sacramento, CA	12
+Oakland, CA	Lihue, HI	12
+Boston, MA	Los Angeles, CA	12
+Visalia, CA	Merced, CA	12
+Los Angeles, CA	Eugene, OR	12
+San Diego, CA	Los Angeles, CA	12
+Baltimore, MD	San Francisco, CA	12
+Monterey, CA	Bullhead City, AZ	12
+Memphis, TN	Long Beach, CA	12
+Seattle, WA	Los Angeles, CA	12
+Laredo, TX	San Diego, CA	12
+Los Angeles, CA	Colorado Springs, CO	12
+Denver, CO	San Francisco, CA	12
+San Diego, CA	Burbank, CA	12
+Los Angeles, CA	Palm Springs, CA	12
+Dallas/Fort Worth, TX	San Francisco, CA	12
+Portland, OR	Oakland, CA	12
+Denver, CO	Ontario, CA	12
+San Francisco, CA	Kansas City, MO	12
+Phoenix, AZ	Ontario, CA	12
+Ontario, CA	Indianapolis, IN	12
+Honolulu, HI	Los Angeles, CA	12
+Memphis, TN	San Jose, CA	12
+Los Angeles, CA	San Jose, CA	12
+Dallas/Fort Worth, TX	Burbank, CA	12
+Sun Valley/Hailey/Ketchum, ID	Burbank, CA	12
+San Francisco, CA	Medford, OR	12
+Newark, NJ	San Diego, CA	12
+San Francisco, CA	Portland, OR	12
+Louisville, KY	Ontario, CA	12
+Sacramento, CA	Kahului, HI	12
+Boise, ID	Los Angeles, CA	12
+Chicago, IL	Ontario, CA	12
+Chicago, IL	Los Angeles, CA	12
+San Francisco, CA	Denver, CO	12
+Honolulu, HI	San Francisco, CA	12
+Denver, CO	San Francisco, CA	12
+Ontario, CA	Phoenix, AZ	12
+Denver, CO	Sacramento, CA	12
+San Diego, CA	Sacramento, CA	12
+Santa Maria, CA	Ontario, CA	12
+Newark, NJ	San Diego, CA	12
+Ontario, CA	Louisville, KY	12
+Tucson, AZ	Los Angeles, CA	12
+Los Angeles, CA	Philadelphia, PA	12
+Thermal, CA	Burbank, CA	12
+Madison, WI	Los Angeles, CA	12
+San Jose, CA	Chicago, IL	12
+Los Angeles, CA	San Diego, CA	12
+Santa Barbara, CA	Los Angeles, CA	12
+Santa Ana, CA	Portland, OR	12
+Minneapolis, MN	San Francisco, CA	12
+Ontario, CA	Phoenix, AZ	12
+Oakland, CA	Palm Springs, CA	12
+Philadelphia, PA	Los Angeles, CA	12
+San Francisco, CA	New York, NY	12
+Los Angeles, CA	Denver, CO	12
+Austin, TX	Ontario, CA	12
+Teterboro, NJ	Burbank, CA	12
+Houston, TX	Santa Ana, CA	12

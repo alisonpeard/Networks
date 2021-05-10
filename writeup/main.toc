@@ -1,0 +1,55 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1}Introduction}{2}{section.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2}Flow on a network}{3}{section.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3}Notation}{4}{section.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.0.1}Random walks}{4}{subsubsection.3.0.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4}Synthesising ergodic dynamics}{6}{section.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5}Dynamical processes on a network}{7}{section.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6}Specific similarity measures}{9}{section.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {6.0.1}Discrete-time unweighted similarity matrix}{9}{subsubsection.6.0.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {6.0.2}Walktrap similarity matrix}{9}{subsubsection.6.0.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {6.0.3}Continuous-time dynamical similarity matrix}{10}{subsubsection.6.0.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.1}Practical considerations}{10}{subsection.6.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {6.1.1}Time-scales}{10}{subsubsection.6.1.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {6.1.2}Normalising Similarity Matrices discussion}{10}{subsubsection.6.1.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {6.1.3}Similarity-based clustering}{11}{subsubsection.6.1.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7}Initial analysis on a model network}{11}{section.7}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {7.0.1}Unweighted DTRW performance}{12}{subsubsection.7.0.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {7.0.2}Walktrap}{13}{subsubsection.7.0.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.1}Dynamical Similarity}{14}{subsection.7.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {8}Flight Network}{15}{section.8}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {9}Dynamical Core-Periphery Structures}{19}{section.9}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {10}Memory networks}{21}{section.10}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {11}Discussion}{22}{section.11}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A}Theorems}{22}{appendix.A}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {A.1}Overview of community detection methods}{22}{subsection.A.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {A.1.1}Markov stability}{22}{subsubsection.A.1.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {A.1.2}Walktrap}{22}{subsubsection.A.1.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {A.1.3}Core-Periphery methods}{22}{subsubsection.A.1.3}%

@@ -1,0 +1,4 @@
+inkscape network-9.svg --export-ps=network-9.ps
+pstopdf network-9.ps -o network-9.pdf
+
+pdflatex -enable-write18 main.tex
